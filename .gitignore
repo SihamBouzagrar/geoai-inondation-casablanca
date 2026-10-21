@@ -9,7 +9,14 @@ donnees_traitees
 # On garde les README et la structure
 !donnees_brutes/**/README.md
 !donnees_brutes/**/.gitkeep
-
+# Conserver la documentation et la structure du répertoire traité
+!donnees_traitees/README.md
+!donnees_traitees/casablanca_settat/
+donnees_traitees/casablanca_settat/*
+!donnees_traitees/casablanca_settat/README.md
+!donnees_traitees/casablanca_settat/osm/
+!donnees_traitees/casablanca_settat/hydrographie/
+!donnees_traitees/casablanca_settat/limites/
 # Fichiers temporaires / système
 *.tif
 *.shp
