@@ -5,7 +5,7 @@ donnees_brutes/source2/**
 donnees_brutes/hcp/**
 donnees_brutes/routes/**
 donnees_brutes/processed/**
-
+donnees_traitees
 # On garde les README et la structure
 !donnees_brutes/**/README.md
 !donnees_brutes/**/.gitkeep
