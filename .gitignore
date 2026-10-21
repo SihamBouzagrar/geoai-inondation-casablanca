@@ -2,6 +2,8 @@
 donnees_brutes/osm/**
 donnees_brutes/dem/**
 donnees_brutes/source2/**
+donnees_brutes/hcp/**
+donnees_brutes/routes/**
 donnees_brutes/processed/**
 
 # On garde les README et la structure
