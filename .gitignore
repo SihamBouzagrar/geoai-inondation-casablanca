@@ -1,0 +1,24 @@
+# Données brutes (trop volumineuses)
+donnees_brutes/osm/**
+donnees_brutes/dem/**
+donnees_brutes/source2/**
+donnees_brutes/processed/**
+
+# On garde les README et la structure
+!donnees_brutes/**/README.md
+!donnees_brutes/**/.gitkeep
+
+# Fichiers temporaires / système
+*.tif
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.rar
+*.zip
+*.gpkg
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
