@@ -1,32 +1,46 @@
-# Données brutes (trop volumineuses)
-donnees_brutes/osm/**
-donnees_brutes/dem/**
-donnees_brutes/source2/**
-donnees_brutes/hcp/**
-donnees_brutes/routes/**
-donnees_brutes/processed/**
-donnees_traitees
-# On garde les README et la structure
+
+# ============================================================
+# DONNÉES BRUTES : conserver uniquement README.md et .gitkeep
+# ============================================================
+donnees_brutes/**
+!donnees_brutes/**/
+donnees_brutes/**/*
 !donnees_brutes/**/README.md
 !donnees_brutes/**/.gitkeep
 
-# Données traitées : ignorer tous les fichiers, sauf le README principal
-donnees_traitees/*
-!donnees_traitees/README.md
+# ============================================================
+# DONNÉES TRAITÉES : conserver uniquement README.md et .gitkeep
+# ============================================================
+donnees_traitees/**
+!donnees_traitees/**/
+donnees_traitees/**/*
+!donnees_traitees/**/README.md
+!donnees_traitees/**/.gitkeep
 
-# Fichiers temporaires / système
+# ============================================================
+# FICHIERS GÉOGRAPHIQUES ET ARCHIVES
+# ============================================================
 *.tif
+*.tiff
 *.shp
 *.dbf
 *.shx
 *.prj
 *.cpg
+*.sbn
+*.sbx
+*.lock
+*.gpkg
+*.geojson
 *.rar
 *.zip
-*.gpkg
+
+# ============================================================
+# FICHIERS TEMPORAIRES ET SYSTÈME
+# ============================================================
 .DS_Store
+desktop.ini
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-
 .idea/
