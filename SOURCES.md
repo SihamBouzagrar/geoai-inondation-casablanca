@@ -53,7 +53,7 @@ Le projet comprend trois analyses complémentaires :
 | CRS cible | EPSG:26191 |
 | Emprise | Maroc, puis extraction du Grand Casablanca |
 | Contenu | Oueds, lacs et dayas, barrages, bassins versants et nappes, selon les couches présentes |
-| Acquisition | Téléchargement avec `gdown`, puis extraction automatisée |
+
 
 ### Utilisation dans le projet
 
@@ -74,7 +74,7 @@ Le projet comprend trois analyses complémentaires :
 | CRS d'origine | EPSG:4326  |
 | CRS cible | EPSG:26191 |
 | Emprise | Grand Casablanca |
-| Acquisition | Téléchargement automatisé avec `gdown` |
+
 
 ### Utilisation dans le projet
 
@@ -105,7 +105,7 @@ Le projet comprend trois analyses complémentaires :
 - Caractérisation de la vulnérabilité démographique.
 - Contribution à la classification des secteurs en cinq niveaux de vulnérabilité.
 
-**Précaution :** si les données sont disponibles uniquement à l'échelle communale, elles ne permettent pas de déterminer directement la population exposée dans chaque cellule de 30 m. L'échelle des données doit être documentée.
+
 
 ---
 
@@ -123,37 +123,38 @@ Le projet comprend trois analyses complémentaires :
 | Accessibilité | Réseau routier | OSM |
 | Accessibilité | Hôpitaux et casernes de pompiers | OSM et autres sources vérifiées |
 
-### Méthode de classification
-
-La classification non supervisée pourra être réalisée avec K-means après :
-
-1. Harmonisation de la grille spatiale et des systèmes de coordonnées.
-2. Calcul des variables explicatives.
-3. Traitement des valeurs manquantes et invalides.
-4. Standardisation des variables.
-5. Comparaison de plusieurs nombres de groupes.
-6. Interprétation des groupes et attribution éventuelle de niveaux de susceptibilité.
-
-Les numéros de groupes produits par l'algorithme ne représentent pas automatiquement les niveaux faible, moyen ou élevé.
-
-La vulnérabilité sera analysée séparément à partir de la susceptibilité et des données d'exposition. L'accessibilité des secours fera l'objet d'une analyse de réseau.
-
 ---
-
 ## 7. Organisation des fichiers
 
 ```text
-projet_inondations_casablanca/
+Geodata/
 ├── donnees_brutes/
 │   ├── osm/
+│   │   
 │   ├── hydro/
-│   │   ├── hydro.rar
+│   │   ├── hydro_donnees.rar
 │   │   └── extracted/
+│   │       └── hydro-maroc(CartoMaroc)/
 │   ├── dem/
 │   │   └── DEM_Grand_Casablanca_30m.tif
 │   ├── hcp/
+│   │   └── [fichier excel  HCP téléchargés]
 │   └── routes/
-├── script/
+│       ├── osm_routes_brut.json
+│       └── routes_casablanca.geojson
+│
+├── donnees_traitees/
+│   └── casablanca_settat/
+│       ├── osm/
+│       │   └── [couches OSM découpées .gpkg]
+│       ├── hydrographie/
+│       │   ├── [couches hydrographiques découpées .gpkg]
+│       │   └── rapport_decoupage_hydrographie.csv
+│       └── limite_casablanca_settat.gpkg
+│
+├── scripts/
+│   └── [ scripts Python]
+│
 └── sources.md
 ```
 
