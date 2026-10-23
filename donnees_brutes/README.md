@@ -4,14 +4,32 @@
 
 ```text
 donnees_brutes/
-├── osm/                          # OpenStreetMap (Geofabrik)
-├── source2/
-│   ├── source2_donnees.rar       # Archive originale hydro
-│   └── extracted/                # Couches hydrographiques extraites
+├── osm/                              # Données OpenStreetMap (Geofabrik)
+│
+├── routes/                           # Données routières
+│   ├── routes_maroc.*                # Données routières brutes si source distincte
+│   └── README.md                     # Source, date et description
+│
+├── hcp/                              # Données statistiques du Haut-Commissariat au Plan
+│   ├── rgph_2024/                    # Données du RGPH 2024
+│   
+│   
+│
+├── hydro/
+│   ├── hydro.rar           # Archive originale hydrographique
+│   └── extracted/                    # Couches hydrographiques extraites
+│
 ├── dem/
-│   └── DEM_Grand_Casablanca_30m.tif
-└── processed/                    # Versions reprojetées EPSG:26191 (générées par le script)
+│   └── DEM_Grand_Casablanca_30m.tif  # Modèle numérique de terrain à 30 m
+
+```
+
+## Rôle des nouvelles sources
+
+- **HCP** : données de population et indicateurs démographiques pour analyser la vulnérabilité humaine.
+- **Routes** : réseau routier pour étudier l’accessibilité des zones touchées et des itinéraires de secours.
+- **OSM** : autres objets géographiques utiles, notamment les bâtiments et les équipements, selon les couches disponibles.
 
 
-
-//python 01_import_brut.py
+python scripts/01_import_brut.py
+```
