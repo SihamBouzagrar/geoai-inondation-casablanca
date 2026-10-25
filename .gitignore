@@ -3,7 +3,7 @@
 # DONNÉES BRUTES : conserver uniquement README.md et .gitkeep
 # ============================================================
 donnees_brutes/**
-!donnees_brutes/**/
+donnees_brutes/**/
 donnees_brutes/**/*
 !donnees_brutes/**/README.md
 !donnees_brutes/**/.gitkeep
@@ -11,11 +11,11 @@ donnees_brutes/**/*
 # ============================================================
 # DONNÉES TRAITÉES : conserver uniquement README.md et .gitkeep
 # ============================================================
-donnees_traitees/**
-!donnees_traitees/**/
-donnees_traitees/**/*
-!donnees_traitees/**/README.md
-!donnees_traitees/**/.gitkeep
+donnees_decoupes/**
+donnees_decoupes/**/
+donnees_decoupes/**/*
+!donnees_decoupes/**/README.md
+!donnees_decoupes/**/.gitkeep
 
 # ============================================================
 # FICHIERS GÉOGRAPHIQUES ET ARCHIVES
