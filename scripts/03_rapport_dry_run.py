@@ -2,14 +2,12 @@
 # -*- coding: utf-8 -*-
 """
 ===============================================================================
-PROJET : GeoAI Inondation Casablanca - Mini-PFE 3e Année
-SÉANCE 4 / INTERSESSION 3 - LIVRABLE QUESTION 2
-SCRIPT : Mode « Rapport Seul » (--dry-run) Multi-Sources & Désaccord Topologique
-AUTEUR : Équipe GeoAI Casablanca
+PROJET : GeoAI Inondation Casablanca 
+SCRIPT : Mode « Rapport Seul » (--dry-run) 
 ===============================================================================
 Conforme au Cahier des Charges (Intersession 3 / Séance 4) :
   - Audit complet de TOUTES les sources (Bâti, Routes, Sol, POI, Secours, Oueds, MNT DEM).
-  - Traitement détaillé du désaccord topologique réel (Oueds CartoMaroc).
+
   - Mode 'Rapport Seul' strict : AUCUNE écriture ni modification de fichier.
 ===============================================================================
 """
