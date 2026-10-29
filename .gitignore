@@ -1,46 +1,33 @@
-
 # ============================================================
-# DONNÉES BRUTES : conserver uniquement README.md et .gitkeep
-# ============================================================
-donnees_brutes/**
-donnees_brutes/**/
-donnees_brutes/**/*
-!donnees_brutes/**/README.md
-!donnees_brutes/**/.gitkeep
-
-# ============================================================
-# DONNÉES TRAITÉES : conserver uniquement README.md et .gitkeep
-# ============================================================
-donnees_decoupes/**
-donnees_decoupes/**/
-donnees_decoupes/**/*
-!donnees_decoupes/**/README.md
-!donnees_decoupes/**/.gitkeep
-
-# ============================================================
-# FICHIERS GÉOGRAPHIQUES ET ARCHIVES
-# ============================================================
-*.tif
-*.tiff
-*.shp
-*.dbf
-*.shx
-*.prj
-*.cpg
-*.sbn
-*.sbx
-*.lock
-*.gpkg
-*.geojson
-*.rar
-*.zip
-
-# ============================================================
-# FICHIERS TEMPORAIRES ET SYSTÈME
+# FICHIERS TEMPORAIRES ET SYSTÈME (À NE PAS POUSSER)
 # ============================================================
 .DS_Store
 desktop.ini
+Thumbs.db
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 .ipynb_checkpoints/
 .idea/
+.vscode/
+*.lock
+
+# ============================================================
+# BRUT OSM MAROC ENTIER > 100 Mo (STRICTEMENT REJETÉ PAR GITHUB)
+# Ces fichiers bruts du Maroc font entre 150 Mo et 470 Mo chacun.
+# Ils sont téléchargés automatiquement par 01_acquisition_donnees.ipynb.
+# ============================================================
+donnees_brutes/osm/*.zip
+donnees_brutes/osm/*.shp
+donnees_brutes/osm/*.dbf
+donnees_brutes/osm/*.shx
+donnees_brutes/osm/*.cpg
+donnees_brutes/osm/*.prj
+
+# ============================================================
+# DONNÉES AUTORISÉES DANS GIT (< 100 Mo)
+# - Toutes les données découpées de Casablanca (donnees_decoupes/)
+# - Toutes les données traitées et propres (donnees_traitees/)
+# - Le DEM 30 m corrigé (.tif)
+# - Les scripts, notebooks et rapports (.ipynb, .py, .csv, .md)
+# ============================================================
