@@ -1,6 +1,10 @@
-# ============================================================
-# FICHIERS TEMPORAIRES ET SYSTÈME (À NE PAS POUSSER)
-# ============================================================
+# =============================================================================
+# .gitignore — GeoAI Inondation Casablanca
+# =============================================================================
+
+# ----------------------------------------------------------------------------
+# FICHIERS SYSTÈME & ÉDITEURS
+# ----------------------------------------------------------------------------
 .DS_Store
 desktop.ini
 Thumbs.db
@@ -12,22 +16,36 @@ __pycache__/
 .vscode/
 *.lock
 
-# ============================================================
-# BRUT OSM MAROC ENTIER > 100 Mo (STRICTEMENT REJETÉ PAR GITHUB)
-# Ces fichiers bruts du Maroc font entre 150 Mo et 470 Mo chacun.
-# Ils sont téléchargés automatiquement par 01_acquisition_donnees.ipynb.
-# ============================================================
-donnees_brutes/osm/*.zip
-donnees_brutes/osm/*.shp
-donnees_brutes/osm/*.dbf
-donnees_brutes/osm/*.shx
-donnees_brutes/osm/*.cpg
-donnees_brutes/osm/*.prj
+# ----------------------------------------------------------------------------
+# DONNÉES BRUTES OSM — MAROC ENTIER (> 100 Mo → rejeté par GitHub)
+# Téléchargées automatiquement par 01_acquisition_donnees.ipynb
+# ----------------------------------------------------------------------------
+donnees_brutes/osm/
 
-# ============================================================
-# DONNÉES AUTORISÉES DANS GIT (< 100 Mo)
-# - Toutes les données découpées de Casablanca (donnees_decoupes/)
-# - Toutes les données traitées et propres (donnees_traitees/)
-# - Le DEM 30 m corrigé (.tif)
-# - Les scripts, notebooks et rapports (.ipynb, .py, .csv, .md)
-# ============================================================
+# ----------------------------------------------------------------------------
+# DEM BRUT — trop volumineux pour GitHub (> 100 Mo)
+# Le DEM corrigé reprojeté (< 65 Mo) est versionné dans donnees_decoupes/
+# ----------------------------------------------------------------------------
+donnees_brutes/dem/
+
+# ----------------------------------------------------------------------------
+# DONNÉES BRUTES AUTORISÉES DANS GIT
+#   ✅ donnees_brutes/hydro/   — oueds CartoMaroc (rar 64 Mo, warning ok)
+#   ✅ donnees_brutes/hcp/     — fichiers Excel HCP (petits)
+#   ✅ donnees_brutes/routes/  — GeoJSON routes (petits)
+# Ces dossiers ne sont PAS ignorés → ils seront versionnés normalement.
+# ----------------------------------------------------------------------------
+
+# ----------------------------------------------------------------------------
+# DONNÉES DÉCOUPÉES & TRAITÉES — toutes autorisées (< 100 Mo par fichier)
+#   ✅ donnees_decoupes/       — couches OSM + hydro découpées (.gpkg)
+#   ✅ donnees_traitees/       — DEM corrigé reprojeté (.tif ~60 Mo)
+# ----------------------------------------------------------------------------
+
+# ----------------------------------------------------------------------------
+# FICHIERS BINAIRES VOLUMINEUX (hors données nettoyées)
+# Ignorer les archives lourdes non référencées ailleurs
+# ----------------------------------------------------------------------------
+*.zip
+# Exception : ne pas ignorer les .gpkg (données nettoyées < 100 Mo)
+!*.gpkg
