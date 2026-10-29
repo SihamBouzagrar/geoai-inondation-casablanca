@@ -1,5 +1,5 @@
 
-# Données traitées — Casablanca-Settat
+# Données decoupes — Casablanca-Settat
 
 ## 1. Présentation
 
@@ -10,7 +10,7 @@ Les données sont générées à partir des sources originales stockées dans `d
 ## 2. Organisation du répertoire
 
 ```text
-donnees_traitees/
+donnees_decoupes/
 ├── README.md
 └── casablanca_settat/
     ├── osm/
@@ -26,7 +26,6 @@ Contient les couches géographiques OpenStreetMap découpées selon la limite ad
 
 Les couches disponibles peuvent notamment inclure :
 - Bâtiments
-- Routes et réseaux de transport
 - Occupation du sol
 - Espaces naturels
 - Hydrographie OSM
@@ -108,7 +107,6 @@ Les données traitées serviront de base aux étapes suivantes du projet :
 
 ---
 
-**Projet :** Analyse de la susceptibilité aux inondations  
 **Zone d'étude :** Région Casablanca-Settat, Maroc  
 **Format principal des données traitées :** GeoPackage (`.gpkg`)  
 **CRS cible du projet :** EPSG:26191

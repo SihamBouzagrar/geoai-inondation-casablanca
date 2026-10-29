@@ -1,0 +1,7 @@
+﻿couche,statut,entites_avant,entites_apres,fichier_sortie
+barrages_(CartoMaroc).shp,OK,135,11,barrages_(CartoMaroc)_casablanca_settat.gpkg
+Bassin-maroc(CartoMaroc).shp,OK,22,4,Bassin-maroc(CartoMaroc)_casablanca_settat.gpkg
+Lac+Dayat(CartoMaroc).shp,OK,3059,380,Lac+Dayat(CartoMaroc)_casablanca_settat.gpkg
+Nappes_(CartoMaroc).shp,OK,67,5,Nappes_(CartoMaroc)_casablanca_settat.gpkg
+Oued(CartoMaroc) (1).shp,OK,43837,276,Oued(CartoMaroc) (1)_casablanca_settat.gpkg
+Oued-Détaillé(CartoMaroc).shp,OK,93681,4000,Oued-Détaillé(CartoMaroc)_casablanca_settat.gpkg

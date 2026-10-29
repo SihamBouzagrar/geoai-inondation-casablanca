@@ -1,0 +1,7 @@
+﻿Couche,Source,Entites_Initiales,Invalides_Reparees,Vides_Supprimees,Doublons_Supprimes,Entites_Clean_Final,CRS_Initial,CRS_Final
+Bati,osm/gis_osm_buildings_a_free_1_casablanca_settat.gpkg,85001,0,0,0,85001,EPSG:4326,EPSG:26191
+OccupationSol,osm/gis_osm_landuse_a_free_1_casablanca_settat.gpkg,11811,0,0,5,11805,EPSG:4326,EPSG:26191
+Equipements_POI,osm/gis_osm_pois_free_1_casablanca_settat.gpkg,7347,0,0,6,7341,EPSG:4326,EPSG:26191
+Infrastructures_Secours,osm/gis_osm_traffic_free_1_casablanca_settat.gpkg,9264,0,0,1,9263,EPSG:4326,EPSG:26191
+Oued_Detaille,hydrographie/Oued-Détaillé(CartoMaroc)_casablanca_settat.gpkg,4000,0,0,2666,1334,EPSG:4326,EPSG:26191
+Oued_Principal,hydrographie/Oued(CartoMaroc) (1)_casablanca_settat.gpkg,276,0,0,0,268,EPSG:4326,EPSG:26191

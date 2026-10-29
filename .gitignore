@@ -1,46 +1,47 @@
+# =============================================================================
+# .gitignore — GeoAI Inondation Casablanca
+# =============================================================================
 
-# ============================================================
-# DONNÉES BRUTES : conserver uniquement README.md et .gitkeep
-# ============================================================
-donnees_brutes/**
-donnees_brutes/**/
-donnees_brutes/**/*
-!donnees_brutes/**/README.md
-!donnees_brutes/**/.gitkeep
-
-# ============================================================
-# DONNÉES TRAITÉES : conserver uniquement README.md et .gitkeep
-# ============================================================
-donnees_decoupes/**
-donnees_decoupes/**/
-donnees_decoupes/**/*
-!donnees_decoupes/**/README.md
-!donnees_decoupes/**/.gitkeep
-
-# ============================================================
-# FICHIERS GÉOGRAPHIQUES ET ARCHIVES
-# ============================================================
-*.tif
-*.tiff
-*.shp
-*.dbf
-*.shx
-*.prj
-*.cpg
-*.sbn
-*.sbx
-*.lock
-*.gpkg
-*.geojson
-*.rar
-*.zip
-
-# ============================================================
-# FICHIERS TEMPORAIRES ET SYSTÈME
-# ============================================================
+# ----------------------------------------------------------------------------
+# FICHIERS SYSTÈME & ÉDITEURS
+# ----------------------------------------------------------------------------
 .DS_Store
 desktop.ini
+Thumbs.db
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 .ipynb_checkpoints/
 .idea/
+.vscode/
+*.lock
+
+# ----------------------------------------------------------------------------
+# DONNÉES BRUTES OSM — MAROC ENTIER (> 100 Mo → rejeté par GitHub)
+# Téléchargées automatiquement par 01_acquisition_donnees.ipynb
+# ----------------------------------------------------------------------------
+donnees_brutes/osm/
+
+
+
+# ----------------------------------------------------------------------------
+# DONNÉES BRUTES AUTORISÉES DANS GIT
+#   ✅ donnees_brutes/hydro/   — oueds CartoMaroc (rar 64 Mo, warning ok)
+#   ✅ donnees_brutes/hcp/     — fichiers Excel HCP (petits)
+#   ✅ donnees_brutes/routes/  — GeoJSON routes (petits)
+# Ces dossiers ne sont PAS ignorés → ils seront versionnés normalement.
+# ----------------------------------------------------------------------------
+
+# ----------------------------------------------------------------------------
+# DONNÉES DÉCOUPÉES & TRAITÉES — toutes autorisées (< 100 Mo par fichier)
+#   ✅ donnees_decoupes/       — couches OSM + hydro découpées (.gpkg)
+#   ✅ donnees_traitees/       — DEM corrigé reprojeté (.tif ~60 Mo)
+# ----------------------------------------------------------------------------
+
+# ----------------------------------------------------------------------------
+# FICHIERS BINAIRES VOLUMINEUX (hors données nettoyées)
+# Ignorer les archives lourdes non référencées ailleurs
+# ----------------------------------------------------------------------------
+*.zip
+# Exception : ne pas ignorer les .gpkg (données nettoyées < 100 Mo)
+!*.gpkg

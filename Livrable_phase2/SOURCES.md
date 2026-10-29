@@ -128,9 +128,13 @@ Le projet comprend trois analyses complémentaires :
 
 ```text
 Geodata/
+├── Livrable_phase1/
+│   └── Document_1erJet.pdf
+│
+├── Livrable_phase2/
+│
 ├── donnees_brutes/
 │   ├── osm/
-│   │   
 │   ├── hydro/
 │   │   ├── hydro_donnees.rar
 │   │   └── extracted/
@@ -138,12 +142,12 @@ Geodata/
 │   ├── dem/
 │   │   └── DEM_Grand_Casablanca_30m.tif
 │   ├── hcp/
-│   │   └── [fichier excel  HCP téléchargés]
+│   │   └── [fichiers Excel HCP téléchargés]
 │   └── routes/
 │       ├── osm_routes_brut.json
 │       └── routes_casablanca.geojson
 │
-├── donnees_traitees/
+├── donnees_decoupes/
 │   └── casablanca_settat/
 │       ├── osm/
 │       │   └── [couches OSM découpées .gpkg]
@@ -152,10 +156,22 @@ Geodata/
 │       │   └── rapport_decoupage_hydrographie.csv
 │       └── limite_casablanca_settat.gpkg
 │
-├── scripts/
-│   └── [ scripts Python]
+├── donnees_traitees/
+│   └── casablanca_settat/
+│       ├── bati_casablanca_settat_clean.gpkg
+│       ├── equipements_poi_casablanca_settat_clean.gpkg
+│       ├── infrastructures_secours_clean.gpkg
+│       ├── occupation_sol_casablanca_settat_clean.gpkg
+│       ├── oued_detaille_casablanca_settat_clean.gpkg
+│       └── oued_principal_casablanca_settat_clean.gpkg
 │
-└── sources.md
+├── scripts/
+│   ├── 01_acquisition_donnees.ipynb
+│   ├── 02_decoupage_donnees.ipynb
+│   ├── 03_nettoyage_DEM.ipynb
+│   └── 03_nettoyage_geometries_[...].ipynb
+│
+└── SOURCES.md
 ```
 
 ---
