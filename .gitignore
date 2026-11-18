@@ -15,7 +15,12 @@ __pycache__/
 .idea/
 .vscode/
 *.lock
-
+# Large GIS datasets - kept locally
+/donnees_traitees/mailles/mailles_100m.gpkg
+/donnees_traitees/mailles/mailles_100m_normalisees.csv
+/donnees_traitees/mailles/variables_mnt_100m.csv
+/donnees_traitees/mailles/stats_zonales_controle_100m.csv
+/donnees_decoupes/casablanca_settat/osm/gis_osm_roads_free_1_casablanca_settat.gpkg
 # ----------------------------------------------------------------------------
 # DONNÉES BRUTES OSM — MAROC ENTIER (> 100 Mo → rejeté par GitHub)
 # Téléchargées automatiquement par 01_acquisition_donnees.ipynb
@@ -45,3 +50,7 @@ donnees_brutes/osm/
 *.zip
 # Exception : ne pas ignorer les .gpkg (données nettoyées < 100 Mo)
 !*.gpkg
+config_local.bat
+# Exclure explicitement les fichiers volumineux
+/donnees_traitees/mailles/mailles_100m.gpkg
+/donnees_decoupes/casablanca_settat/osm/gis_osm_roads_free_1_casablanca_settat.gpkg
