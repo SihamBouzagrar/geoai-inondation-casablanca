@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-10-29T12:29:39Z",
+    "timestamp_osm_base": "2026-11-16T21:29:43Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1061,7 +1061,7 @@
         12118150013,
         5623276955,
         12118161709,
-        12118161708,
+        12118161658,
         12118161639,
         332068433,
         4195897795,
@@ -3228,9 +3228,11 @@
         4201176470,
         12181133928,
         459750890,
+        14363073028,
         459750904,
         4760055431,
         458740364,
+        14363073022,
         6738893172,
         457943015
       ],
@@ -3238,7 +3240,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Driss Harti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -3730,6 +3734,7 @@
         5632965680,
         12200435134,
         10126041730,
+        14361791482,
         10126041733
       ],
       "tags": {
@@ -3939,12 +3944,14 @@
         455457842,
         6696860206,
         1448986751,
+        3909581897,
         1448986768,
         1448986756,
         1448986822,
         1448986864,
+        3921352853,
         6696860207,
-        6696860208,
+        3909582300,
         1448986834,
         6696860209,
         1447924548
@@ -4394,6 +4401,7 @@
         6734903891,
         1540883072,
         1873948804,
+        14348653193,
         459703628,
         6734903890,
         6731735922,
@@ -4401,6 +4409,7 @@
         6734903889,
         6734903888,
         6734903887,
+        14348721696,
         459703621,
         459703617,
         1918026945,
@@ -5315,6 +5324,7 @@
         6827350897,
         1696703916,
         1696704224,
+        14374400873,
         1696704054,
         12206156313,
         1696703725,
@@ -6908,16 +6918,7 @@
         1540882631,
         6755783944,
         1251814715,
-        4166436169,
-        4166435659,
-        1251814818,
-        6753334178,
-        5664723058,
-        11836261886,
-        6757261358,
-        1251814665,
-        5652284728,
-        4199000097
+        14348702556
       ],
       "tags": {
         "highway": "secondary",
@@ -7073,15 +7074,7 @@
         6753334177,
         459703297,
         6755783940,
-        1873948730,
-        1540882389,
-        459703250,
-        6755783941,
-        6732705804,
-        6755783942,
-        1091619468,
-        6928729445,
-        1091619047
+        14348702559
       ],
       "tags": {
         "highway": "secondary",
@@ -7530,14 +7523,9 @@
         1848421218,
         1415737003,
         1849519676,
+        14333478019,
         1415736995,
-        1415736994,
-        1415736992,
-        1415736988,
-        12195597582,
-        1415736987,
-        5648126119,
-        1415736986
+        14333478010
       ],
       "tags": {
         "highway": "secondary",
@@ -9667,6 +9655,7 @@
         6731735925,
         6731735928,
         1540882577,
+        14348653194,
         5026770802,
         1540882549,
         1540882849,
@@ -13372,6 +13361,7 @@
         456510087,
         6840566201,
         6840566200,
+        14372779738,
         428627148,
         6731739558,
         6732401612,
@@ -14842,6 +14832,7 @@
         5637751792,
         728533746,
         12206156314,
+        14374400874,
         1696704859,
         6827350900,
         1696704116,
@@ -15423,8 +15414,10 @@
         458736758,
         6851396676,
         6851396675,
+        14354505226,
         458736762,
         458736714,
+        14354505228,
         460013713,
         6851396674,
         6851396673,
@@ -15434,7 +15427,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -16220,6 +16215,7 @@
       "nodes": [
         13931138465,
         455537639,
+        14349219149,
         13728306306,
         365552231,
         6665673030,
@@ -16260,6 +16256,7 @@
         1771139519,
         1771139543,
         6665673033,
+        14349219148,
         1849822910,
         1849822909
       ],
@@ -17058,7 +17055,9 @@
         "foot": "no",
         "highway": "primary",
         "lanes": "3",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -17084,7 +17083,9 @@
       "tags": {
         "highway": "primary",
         "lanes": "2",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -18120,6 +18121,7 @@
         1414545760,
         5638533104,
         12177189614,
+        14366871738,
         3552376738,
         1969289741,
         12177189616,
@@ -18270,7 +18272,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -18662,6 +18666,7 @@
       "nodes": [
         1790139171,
         1790139173,
+        14383515981,
         6732441990,
         5549070767,
         459772311,
@@ -21284,7 +21289,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -24631,10 +24638,13 @@
         1722820667,
         1771139542,
         1722820665,
+        14333777044,
+        14333777043,
         1722820672,
         6660768018,
         6660768020,
         12703891791,
+        14333911109,
         12185038161,
         4183688273,
         13203105129
@@ -25011,9 +25021,11 @@
         2401974391,
         459785205,
         459785204,
+        14369946268,
         6956193796,
         458761766,
         1849822783,
+        14374057833,
         9489815476,
         9489815477,
         9489815483,
@@ -25140,7 +25152,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -25150,6 +25164,7 @@
       "id": 375546305,
       "nodes": [
         1755434147,
+        14361791479,
         4616466920,
         12200435133,
         5497336416,
@@ -25186,7 +25201,9 @@
         10275692995,
         6732104110,
         6732104103,
+        14362979943,
         4232154572,
+        14362979945,
         6727510895
       ],
       "tags": {
@@ -30610,7 +30627,9 @@
         "highway": "primary",
         "lanes": "1",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -30634,7 +30653,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -31422,7 +31443,9 @@
         "highway": "primary",
         "lanes": "3",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Driss Harti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -31517,7 +31540,9 @@
         "highway": "primary",
         "lanes": "3",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Driss Harti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -31684,7 +31709,9 @@
         "highway": "primary",
         "lanes": "3",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -31709,7 +31736,6 @@
       "type": "way",
       "id": 421423965,
       "nodes": [
-        1415736985,
         5649732667,
         1415736983,
         1415736980,
@@ -33983,15 +34009,20 @@
         13203219200,
         12706165865,
         460028052,
+        14333911110,
+        14333889511,
         12185038160,
         6661219890,
         12919498947,
         409090420,
         12601817236,
+        14333777042,
+        14333777041,
         458761769,
         409090421,
         6660768021,
         458761741,
+        14333722910,
         458761723,
         458761727,
         458761751,
@@ -34333,6 +34364,7 @@
       "nodes": [
         1969289879,
         5579658477,
+        14383744850,
         1969272825,
         5636199345,
         1969272822
@@ -38088,7 +38120,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -38107,6 +38141,7 @@
         "name:ar": "شارع بانوراميك",
         "name:fr": "Boulevard Panoramique",
         "oneway": "yes",
+        "sidewalk:right": "separate",
         "source": "Bing",
         "surface": "asphalt"
       }
@@ -38163,7 +38198,9 @@
       "tags": {
         "highway": "primary",
         "lanes": "2",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -38609,7 +38646,9 @@
       "tags": {
         "highway": "primary",
         "lanes": "2",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -38744,6 +38783,7 @@
         5670109219,
         2126803545,
         2126803115,
+        14362365202,
         2126803123,
         12896514532,
         5670109723,
@@ -39022,7 +39062,9 @@
       "tags": {
         "highway": "primary",
         "lanes": "3",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -41691,7 +41733,9 @@
       "tags": {
         "highway": "primary",
         "lanes": "3",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -44710,7 +44754,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -45106,6 +45152,7 @@
       "nodes": [
         12620391467,
         12620391487,
+        14364941039,
         12193529488,
         12193529489,
         1974499356,
@@ -45127,7 +45174,9 @@
         "highway": "primary",
         "lanes": "3",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -45307,6 +45356,7 @@
       "id": 423507441,
       "nodes": [
         1848422067,
+        14373950292,
         1848422022
       ],
       "tags": {
@@ -45357,6 +45407,7 @@
       "id": 423508616,
       "nodes": [
         1848422022,
+        14373950291,
         10709196998,
         14107421771,
         10709196999,
@@ -45554,6 +45605,7 @@
       "nodes": [
         4208097571,
         5636127353,
+        14333884309,
         6967837144,
         5633715145,
         4208097569,
@@ -45956,7 +46008,9 @@
         5604819679,
         5045832750,
         12181133931,
+        14364545118,
         1974499413,
+        14364545119,
         2428391463,
         13084388978,
         1974499357,
@@ -45971,6 +46025,7 @@
         6665457690,
         1974499370,
         1974499430,
+        14361954669,
         5550657943,
         5605122403,
         2428391434
@@ -45979,9 +46034,9 @@
         "highway": "primary",
         "lanes": "3",
         "maxspeed": "60",
-        "name": "شارع الشجر",
-        "name:ar": "شارع إدريس الحارثي",
-        "name:fr": "Avenue du Commandant Driss Harti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -46085,7 +46140,9 @@
         "highway": "primary",
         "lanes": "3",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -46327,7 +46384,9 @@
       "nodes": [
         2428391434,
         1974499385,
+        14363073023,
         1974499383,
+        14363073027,
         12181133929,
         5604819660,
         1974499425,
@@ -46337,7 +46396,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Driss Harti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -46537,7 +46598,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -48324,7 +48387,9 @@
         "highway": "primary",
         "lanes": "3",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -49715,6 +49780,7 @@
         6838375952,
         1848422013,
         6830470181,
+        14373950290,
         1848422022
       ],
       "tags": {
@@ -50014,6 +50080,7 @@
         457943015,
         5605122404,
         459751056,
+        14361954668,
         460013874,
         459751079,
         460013871,
@@ -50026,6 +50093,7 @@
         13084388975,
         10127118067,
         5524008417,
+        14364545120,
         2428391471,
         12181133932,
         460013843,
@@ -50036,9 +50104,9 @@
         "highway": "primary",
         "lanes": "3",
         "maxspeed": "60",
-        "name": "شارع الشجر",
-        "name:ar": "شارع إدريس الحارثي",
-        "name:fr": "Avenue du Commandant Driss Harti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -50054,7 +50122,9 @@
         "foot": "no",
         "highway": "primary",
         "lanes": "3",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -50183,13 +50253,14 @@
       "type": "way",
       "id": 511657770,
       "nodes": [
-        428637640,
-        5648126118,
+        14333395442,
         12195597581,
         6650617566,
         6726874192,
         6650617567,
+        14333478009,
         6726874191,
+        14333478018,
         1849519670
       ],
       "tags": {
@@ -50199,6 +50270,7 @@
         "name:ar": "شارع بانوراميك",
         "name:fr": "Boulevard Panoramique",
         "oneway": "yes",
+        "sidewalk:right": "separate",
         "surface": "asphalt"
       }
     },
@@ -50323,7 +50395,9 @@
         "highway": "primary",
         "lanes": "1",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -50408,7 +50482,9 @@
         "highway": "primary",
         "lanes": "1",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -50884,6 +50960,7 @@
       "id": 514602638,
       "nodes": [
         4232154564,
+        14362979942,
         1755434136,
         12197199187,
         10275732527,
@@ -54149,6 +54226,8 @@
         2238747054,
         2238747366,
         1755434128,
+        14364966241,
+        14362979944,
         12197199186,
         4232154564
       ],
@@ -55193,6 +55272,7 @@
       "id": 547603688,
       "nodes": [
         6851396661,
+        14354505227,
         6851396663
       ],
       "tags": {
@@ -55224,7 +55304,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -55242,7 +55324,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -55252,6 +55336,7 @@
       "id": 547638601,
       "nodes": [
         2238747190,
+        14354505230,
         6851396672,
         6851396671,
         6851396670,
@@ -55268,7 +55353,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -55286,13 +55373,16 @@
         1700506780,
         6851396656,
         2238747407,
+        14354505229,
         2238747202
       ],
       "tags": {
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -55301,13 +55391,9 @@
       "type": "way",
       "id": 547639016,
       "nodes": [
-        458736743,
-        6851396668,
-        460013739,
-        460013691,
-        6735210660,
         6735210661,
         458736768,
+        14355124704,
         460013745,
         6735157551,
         6735157550,
@@ -55325,7 +55411,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -55343,7 +55431,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -55353,14 +55443,18 @@
       "id": 547639019,
       "nodes": [
         1700506779,
+        14355124705,
         5062096523,
+        14355124703,
         1700506762
       ],
       "tags": {
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -55378,7 +55472,9 @@
       "tags": {
         "highway": "primary",
         "lanes": "2",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -55395,7 +55491,9 @@
       "tags": {
         "highway": "primary",
         "lanes": "2",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -55449,7 +55547,9 @@
       "tags": {
         "highway": "primary",
         "lanes": "2",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -55509,7 +55609,9 @@
       "tags": {
         "highway": "primary",
         "lanes": "2",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -55602,7 +55704,9 @@
       "tags": {
         "highway": "primary",
         "lanes": "3",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -56182,6 +56286,7 @@
         4226704332,
         5642642018,
         1559103537,
+        14333636048,
         1848422395,
         5608149311,
         1559103444,
@@ -56730,6 +56835,7 @@
         6840909317,
         1746196164,
         6840909316,
+        14383543838,
         1746196183,
         6840909314,
         6840909315,
@@ -57147,7 +57253,9 @@
         "highway": "primary",
         "lanes": "1",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -57165,7 +57273,9 @@
         "highway": "primary",
         "lanes": "3",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -57308,7 +57418,9 @@
         "highway": "primary",
         "lanes": "1",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -60062,7 +60174,9 @@
         "highway": "primary",
         "lanes": "3",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -74240,20 +74354,8 @@
       "type": "way",
       "id": 1055797075,
       "nodes": [
-        1690658341,
-        13798505401,
-        5581378949,
-        5549684248,
-        6665809230,
-        12189072884,
-        6819989244,
-        5638021170,
-        1690658153,
-        5593149938,
-        1690658207,
         1690657793,
-        6732441991,
-        3958813757
+        14383515977
       ],
       "tags": {
         "highway": "primary",
@@ -74265,6 +74367,7 @@
         "old_name:fr": "Route Mediouna",
         "old_ref": "RR315",
         "oneway": "yes",
+        "sidewalk:right": "separate",
         "surface": "asphalt"
       }
     },
@@ -78907,7 +79010,9 @@
       "tags": {
         "highway": "primary",
         "lanes": "3",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -78927,7 +79032,9 @@
       "tags": {
         "highway": "primary",
         "lanes": "3",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -82993,7 +83100,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -83192,6 +83301,7 @@
         10126018253,
         10126018254,
         10126018255,
+        14372798810,
         10126018256,
         6732401611,
         6731739562,
@@ -83202,6 +83312,7 @@
         1690658029,
         6731739556,
         1690658352,
+        14372779739,
         6731739555,
         6840566213,
         1690658786,
@@ -83513,6 +83624,7 @@
         10723723625,
         10723723626,
         10723723673,
+        14344970269,
         10723723671,
         10723723631,
         10723723670,
@@ -84215,7 +84327,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Driss Harti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -84248,7 +84362,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Driss Harti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -84802,7 +84918,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -84818,7 +84936,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -88709,7 +88829,9 @@
       "tags": {
         "highway": "primary",
         "lanes": "3",
-        "name": "Boulevard Mohamed Zefzaf",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -88880,7 +89002,9 @@
         "highway": "primary",
         "lanes": "1",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -88923,7 +89047,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -88978,7 +89104,9 @@
         "highway": "primary",
         "lanes": "3",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -88994,7 +89122,9 @@
         "highway": "primary",
         "lanes": "3",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -89012,7 +89142,9 @@
         "highway": "primary",
         "lanes": "3",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -93088,6 +93220,7 @@
         12559127270,
         12579111454,
         12559127271,
+        12559154439,
         12579111457,
         12559127272,
         12559127273,
@@ -93832,7 +93965,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -93849,7 +93984,9 @@
         "highway": "primary",
         "lanes": "2",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -93899,7 +94036,9 @@
         "highway": "primary",
         "lanes": "3",
         "maxspeed": "60",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -93916,7 +94055,9 @@
         "foot": "no",
         "highway": "primary",
         "lanes": "3",
-        "name": "Avenue du Commandant Idriss Elharti",
+        "name": "Boulevard du Commandant Driss El Harti شارع القائد إدريس الحارثي",
+        "name:ar": "شارع القائد إدريس الحارثي",
+        "name:fr": "Boulevard du Commandant Driss El Harti",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -98290,6 +98431,7 @@
       "id": 1376523656,
       "nodes": [
         1447924548,
+        14372229783,
         1496157266,
         1539208248
       ],
@@ -100987,7 +101129,6 @@
       "id": 1429594036,
       "nodes": [
         13141569255,
-        13141569215,
         13141569256
       ],
       "tags": {
@@ -101030,10 +101171,8 @@
         13141569277,
         13141569276,
         13141569275,
-        13141569298,
-        13141569274,
-        13141569299,
-        13141569273,
+        13141559699,
+        14355491932,
         13141559700,
         13141569272,
         13141569271,
@@ -101209,9 +101348,7 @@
         9489815466,
         11577883303,
         11577883302,
-        1849890025,
-        11577883301,
-        11577883317
+        1849890025
       ],
       "tags": {
         "foot": "no",
@@ -101226,10 +101363,7 @@
       "nodes": [
         11577883313,
         11577883312,
-        11577883311,
-        11577883310,
-        11577883309,
-        26133266
+        11577883311
       ],
       "tags": {
         "foot": "no",
@@ -104749,22 +104883,6 @@
       "type": "way",
       "id": 1445901927,
       "nodes": [
-        6732243531,
-        13266197662,
-        13266197652,
-        13266197651,
-        13266197650,
-        6727524726
-      ],
-      "tags": {
-        "highway": "secondary",
-        "oneway": "yes"
-      }
-    },
-    {
-      "type": "way",
-      "id": 1445901928,
-      "nodes": [
         6727524726,
         13266197649,
         13266197648,
@@ -104786,11 +104904,16 @@
         13266197655,
         13266197654,
         13266197653,
-        6732243531
+        6732243531,
+        13266197662,
+        13266197652,
+        13266197651,
+        13266197650,
+        6727524726
       ],
       "tags": {
         "highway": "secondary",
-        "oneway": "yes"
+        "junction": "roundabout"
       }
     },
     {
@@ -109069,6 +109192,7 @@
         1690657781,
         6665716148,
         6665716152,
+        14354511477,
         4226745387,
         1690657938,
         6665716153,
@@ -109089,6 +109213,328 @@
         "name:etymology:wikipedia": "ar:الرباط",
         "name:fr": "Route de Rabat",
         "old_ref": "P3004",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1573659536,
+      "nodes": [
+        428637640,
+        5648126118
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "3",
+        "name": "Boulevard Panoramique شارع بانوراميك",
+        "name:ar": "شارع بانوراميك",
+        "name:fr": "Boulevard Panoramique",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1573661957,
+      "nodes": [
+        5648126118,
+        14333395442
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "3",
+        "name": "Boulevard Panoramique شارع بانوراميك",
+        "name:ar": "شارع بانوراميك",
+        "name:fr": "Boulevard Panoramique",
+        "oneway": "yes",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1573661961,
+      "nodes": [
+        1415736985,
+        5649732667
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "3",
+        "name": "Boulevard Panoramique شارع بانوراميك",
+        "name:ar": "شارع بانوراميك",
+        "name:fr": "Boulevard Panoramique",
+        "oneway": "yes",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1573661964,
+      "nodes": [
+        5648126119,
+        1415736986
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "3",
+        "name": "Boulevard Panoramique شارع بانوراميك",
+        "name:ar": "شارع بانوراميك",
+        "name:fr": "Boulevard Panoramique",
+        "oneway": "yes",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1573665378,
+      "nodes": [
+        14333478010,
+        14333478016,
+        1415736994
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "3",
+        "name": "Boulevard Panoramique شارع بانوراميك",
+        "name:ar": "شارع بانوراميك",
+        "name:fr": "Boulevard Panoramique",
+        "oneway": "yes",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1573665379,
+      "nodes": [
+        1415736994,
+        1415736992,
+        1415736988,
+        12195597582,
+        1415736987,
+        5648126119
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "3",
+        "name": "Boulevard Panoramique شارع بانوراميك",
+        "name:ar": "شارع بانوراميك",
+        "name:fr": "Boulevard Panoramique",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1575363898,
+      "nodes": [
+        14348702557,
+        1540882389,
+        459703250,
+        6755783941,
+        6732705804,
+        6755783942,
+        1091619468,
+        6928729445,
+        1091619047
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "3",
+        "name": "Boulevard de la Mecque شارع مكة",
+        "name:ar": "شارع مكة",
+        "name:fr": "Boulevard de la Mecque",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1575363899,
+      "nodes": [
+        14348702559,
+        1873948730,
+        14348702557
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "3",
+        "name": "Boulevard de la Mecque شارع مكة",
+        "name:ar": "شارع مكة",
+        "name:fr": "Boulevard de la Mecque",
+        "oneway": "yes",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1575363900,
+      "nodes": [
+        14348702558,
+        4166435659,
+        1251814818,
+        6753334178,
+        5664723058,
+        11836261886,
+        6757261358,
+        1251814665,
+        5652284728,
+        4199000097
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "3",
+        "name": "Boulevard de la Mecque شارع مكة",
+        "name:ar": "شارع مكة",
+        "name:fr": "Boulevard de la Mecque",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1575363901,
+      "nodes": [
+        14348702556,
+        4166436169,
+        14348702558
+      ],
+      "tags": {
+        "highway": "secondary",
+        "lanes": "3",
+        "name": "Boulevard de la Mecque شارع مكة",
+        "name:ar": "شارع مكة",
+        "name:fr": "Boulevard de la Mecque",
+        "oneway": "yes",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1576649815,
+      "nodes": [
+        11577883311,
+        11577883310,
+        11577883309,
+        26133266
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "primary",
+        "old_ref": "N1",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1576649816,
+      "nodes": [
+        1849890025,
+        11577883301,
+        11577883317
+      ],
+      "tags": {
+        "foot": "no",
+        "highway": "primary",
+        "old_ref": "N1",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1576989831,
+      "nodes": [
+        6735210660,
+        6735210661
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
+        "oneway": "yes",
+        "sidewalk:right": "separate",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1576989832,
+      "nodes": [
+        458736743,
+        6851396668,
+        460013739,
+        460013691,
+        14355124702,
+        6735210660
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "2",
+        "maxspeed": "60",
+        "name": "Boulevard Mohamed Zefzaf شارع محمد زفزاف",
+        "name:ar": "شارع محمد زفزاف",
+        "name:fr": "Boulevard Mohamed Zefzaf",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1580233729,
+      "nodes": [
+        14383515977,
+        14383515980,
+        6732441991,
+        3958813757
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "60",
+        "name": "Boulevard Mohammed VI شارع محمد السادس",
+        "name:ar": "شارع محمد السادس",
+        "name:fr": "Boulevard Mohammed VI",
+        "old_name:fr": "Route Mediouna",
+        "old_ref": "RR315",
+        "oneway": "yes",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1580233730,
+      "nodes": [
+        1690658341,
+        13798505401,
+        5581378949,
+        5549684248,
+        6665809230,
+        12189072884,
+        6819989244,
+        5638021170,
+        1690658153,
+        5593149938,
+        1690658207,
+        1690657793
+      ],
+      "tags": {
+        "highway": "primary",
+        "lanes": "3",
+        "maxspeed": "60",
+        "name": "Boulevard Mohammed VI شارع محمد السادس",
+        "name:ar": "شارع محمد السادس",
+        "name:fr": "Boulevard Mohammed VI",
+        "old_name:fr": "Route Mediouna",
+        "old_ref": "RR315",
         "oneway": "yes",
         "surface": "asphalt"
       }
@@ -109671,21 +110117,15 @@
     },
     {
       "type": "node",
-      "id": 13141569215,
-      "lat": 33.4690178,
-      "lon": -7.7795572
-    },
-    {
-      "type": "node",
       "id": 13141569255,
-      "lat": 33.4690125,
-      "lon": -7.7795782
+      "lat": 33.4691039,
+      "lon": -7.7796063
     },
     {
       "type": "node",
       "id": 13141569256,
-      "lat": 33.469056,
-      "lon": -7.7794204
+      "lat": 33.4691636,
+      "lon": -7.7794029
     },
     {
       "type": "node",
@@ -109708,14 +110148,14 @@
     {
       "type": "node",
       "id": 13141569260,
-      "lat": 33.4691548,
-      "lon": -7.7796099
+      "lat": 33.469192,
+      "lon": -7.779638
     },
     {
       "type": "node",
       "id": 13141569261,
-      "lat": 33.4691929,
-      "lon": -7.7794602
+      "lat": 33.469243,
+      "lon": -7.7794699
     },
     {
       "type": "node",
@@ -109743,9 +110183,15 @@
     },
     {
       "type": "node",
+      "id": 13141559699,
+      "lat": 33.4713458,
+      "lon": -7.7753849
+    },
+    {
+      "type": "node",
       "id": 13141559700,
-      "lat": 33.4708873,
-      "lon": -7.7760119
+      "lat": 33.4708966,
+      "lon": -7.7760316
     },
     {
       "type": "node",
@@ -109929,21 +110375,9 @@
     },
     {
       "type": "node",
-      "id": 13141569273,
-      "lat": 33.470895,
-      "lon": -7.7760011
-    },
-    {
-      "type": "node",
-      "id": 13141569274,
-      "lat": 33.4713076,
-      "lon": -7.7753944
-    },
-    {
-      "type": "node",
       "id": 13141569275,
-      "lat": 33.4714653,
-      "lon": -7.7751349
+      "lat": 33.471474,
+      "lon": -7.7751377
     },
     {
       "type": "node",
@@ -109977,21 +110411,15 @@
     },
     {
       "type": "node",
-      "id": 13141569298,
-      "lat": 33.4713211,
-      "lon": -7.7753721
-    },
-    {
-      "type": "node",
-      "id": 13141569299,
-      "lat": 33.4711934,
-      "lon": -7.7755623
-    },
-    {
-      "type": "node",
       "id": 13144358798,
       "lat": 33.4693699,
       "lon": -7.7786449
+    },
+    {
+      "type": "node",
+      "id": 14355491932,
+      "lat": 33.4712586,
+      "lon": -7.7755262
     },
     {
       "type": "node",
@@ -112551,6 +112979,12 @@
     },
     {
       "type": "node",
+      "id": 12559154439,
+      "lat": 33.5349182,
+      "lon": -7.7636969
+    },
+    {
+      "type": "node",
       "id": 12579111438,
       "lat": 33.5343349,
       "lon": -7.7655914
@@ -115042,14 +115476,14 @@
     {
       "type": "node",
       "id": 6838346675,
-      "lat": 33.4621135,
-      "lon": -7.6431195
+      "lat": 33.4620571,
+      "lon": -7.6432011
     },
     {
       "type": "node",
       "id": 6838346676,
-      "lat": 33.4623709,
-      "lon": -7.642791
+      "lat": 33.4623145,
+      "lon": -7.6428726
     },
     {
       "type": "node",
@@ -127569,6 +128003,12 @@
     },
     {
       "type": "node",
+      "id": 14383543838,
+      "lat": 33.5182286,
+      "lon": -7.6654423
+    },
+    {
+      "type": "node",
       "id": 332059061,
       "lat": 33.5189309,
       "lon": -7.7568639
@@ -134614,8 +135054,8 @@
     {
       "type": "node",
       "id": 5676048651,
-      "lat": 33.5309225,
-      "lon": -7.7015206
+      "lat": 33.5307336,
+      "lon": -7.7012926
     },
     {
       "type": "node",
@@ -137098,8 +137538,8 @@
     {
       "type": "node",
       "id": 12046130919,
-      "lat": 33.5410638,
-      "lon": -7.6704235
+      "lat": 33.541066,
+      "lon": -7.6704396
     },
     {
       "type": "node",
@@ -139210,14 +139650,14 @@
     {
       "type": "node",
       "id": 11169680367,
-      "lat": 33.5492906,
-      "lon": -7.6994024
+      "lat": 33.5492727,
+      "lon": -7.6994359
     },
     {
       "type": "node",
       "id": 11169680368,
-      "lat": 33.54941,
-      "lon": -7.6994913
+      "lat": 33.5493988,
+      "lon": -7.6995262
     },
     {
       "type": "node",
@@ -146124,6 +146564,12 @@
       "id": 13362982833,
       "lat": 33.5662433,
       "lon": -7.6579873
+    },
+    {
+      "type": "node",
+      "id": 14333911109,
+      "lat": 33.5683561,
+      "lon": -7.6546665
     },
     {
       "type": "node",
@@ -161416,8 +161862,8 @@
     {
       "type": "node",
       "id": 1091619039,
-      "lat": 33.5311316,
-      "lon": -7.6293772
+      "lat": 33.531141,
+      "lon": -7.6294659
     },
     {
       "type": "node",
@@ -161578,8 +162024,8 @@
     {
       "type": "node",
       "id": 1873948730,
-      "lat": 33.5264328,
-      "lon": -7.6310536
+      "lat": 33.5264205,
+      "lon": -7.6310549
     },
     {
       "type": "node",
@@ -161602,8 +162048,8 @@
     {
       "type": "node",
       "id": 4166436169,
-      "lat": 33.526453,
-      "lon": -7.6311609
+      "lat": 33.5264485,
+      "lon": -7.6311622
     },
     {
       "type": "node",
@@ -161964,6 +162410,30 @@
       "id": 11066855138,
       "lat": 33.5311088,
       "lon": -7.6299255
+    },
+    {
+      "type": "node",
+      "id": 14348702556,
+      "lat": 33.526529,
+      "lon": -7.6311529
+    },
+    {
+      "type": "node",
+      "id": 14348702557,
+      "lat": 33.5265178,
+      "lon": -7.6310335
+    },
+    {
+      "type": "node",
+      "id": 14348702558,
+      "lat": 33.526359,
+      "lon": -7.631173
+    },
+    {
+      "type": "node",
+      "id": 14348702559,
+      "lat": 33.5263456,
+      "lon": -7.6310657
     },
     {
       "type": "node",
@@ -165574,8 +166044,8 @@
     {
       "type": "node",
       "id": 6731735927,
-      "lat": 33.5306037,
-      "lon": -7.6218586
+      "lat": 33.5305953,
+      "lon": -7.621878
     },
     {
       "type": "node",
@@ -165687,6 +166157,12 @@
     },
     {
       "type": "node",
+      "id": 14348721696,
+      "lat": 33.5307156,
+      "lon": -7.6219445
+    },
+    {
+      "type": "node",
       "id": 459703624,
       "lat": 33.5308949,
       "lon": -7.6212042
@@ -165748,8 +166224,8 @@
     {
       "type": "node",
       "id": 1873948804,
-      "lat": 33.5310601,
-      "lon": -7.6196516
+      "lat": 33.5310556,
+      "lon": -7.619661
     },
     {
       "type": "node",
@@ -166110,6 +166586,18 @@
       "id": 12191908991,
       "lat": 33.5289222,
       "lon": -7.6170135
+    },
+    {
+      "type": "node",
+      "id": 14348653193,
+      "lat": 33.5310019,
+      "lon": -7.6199037
+    },
+    {
+      "type": "node",
+      "id": 14348653194,
+      "lat": 33.5308655,
+      "lon": -7.6198433
     },
     {
       "type": "node",
@@ -171958,8 +172446,8 @@
     {
       "type": "node",
       "id": 12703891791,
-      "lat": 33.5690954,
-      "lon": -7.6535171
+      "lat": 33.5689937,
+      "lon": -7.653674
     },
     {
       "type": "node",
@@ -172078,8 +172566,50 @@
     {
       "type": "node",
       "id": 13249882856,
-      "lat": 33.5703538,
-      "lon": -7.6508632
+      "lat": 33.5703773,
+      "lon": -7.650827
+    },
+    {
+      "type": "node",
+      "id": 14333722910,
+      "lat": 33.570268,
+      "lon": -7.6507451
+    },
+    {
+      "type": "node",
+      "id": 14333777041,
+      "lat": 33.569554,
+      "lon": -7.6522699
+    },
+    {
+      "type": "node",
+      "id": 14333777042,
+      "lat": 33.5693864,
+      "lon": -7.6526669
+    },
+    {
+      "type": "node",
+      "id": 14333777043,
+      "lat": 33.5694959,
+      "lon": -7.6527393
+    },
+    {
+      "type": "node",
+      "id": 14333777044,
+      "lat": 33.5696568,
+      "lon": -7.652337
+    },
+    {
+      "type": "node",
+      "id": 14333889511,
+      "lat": 33.5688914,
+      "lon": -7.6535748
+    },
+    {
+      "type": "node",
+      "id": 14333911110,
+      "lat": 33.5682533,
+      "lon": -7.6545726
     },
     {
       "type": "node",
@@ -172824,6 +173354,18 @@
       "id": 13928072585,
       "lat": 33.569531,
       "lon": -7.6438095
+    },
+    {
+      "type": "node",
+      "id": 14369946268,
+      "lat": 33.5662466,
+      "lon": -7.646481
+    },
+    {
+      "type": "node",
+      "id": 14374057833,
+      "lat": 33.5680952,
+      "lon": -7.645037
     },
     {
       "type": "node",
@@ -178174,8 +178716,8 @@
     {
       "type": "node",
       "id": 6665914655,
-      "lat": 33.5583363,
-      "lon": -7.625129
+      "lat": 33.5583307,
+      "lon": -7.6251303
     },
     {
       "type": "node",
@@ -178282,8 +178824,8 @@
     {
       "type": "node",
       "id": 12118161639,
-      "lat": 33.5599293,
-      "lon": -7.626059
+      "lat": 33.5601122,
+      "lon": -7.6261399
     },
     {
       "type": "node",
@@ -178296,6 +178838,12 @@
       "id": 12118161652,
       "lat": 33.5604494,
       "lon": -7.6279547
+    },
+    {
+      "type": "node",
+      "id": 12118161658,
+      "lat": 33.5601603,
+      "lon": -7.6261553
     },
     {
       "type": "node",
@@ -178380,12 +178928,6 @@
       "id": 12118161707,
       "lat": 33.5601023,
       "lon": -7.6259803
-    },
-    {
-      "type": "node",
-      "id": 12118161708,
-      "lat": 33.5599732,
-      "lon": -7.6260858
     },
     {
       "type": "node",
@@ -179733,6 +180275,12 @@
     },
     {
       "type": "node",
+      "id": 14383744850,
+      "lat": 33.5622667,
+      "lon": -7.6095573
+    },
+    {
+      "type": "node",
       "id": 428635915,
       "lat": 33.5619842,
       "lon": -7.6056994
@@ -179890,8 +180438,8 @@
     {
       "type": "node",
       "id": 3552376738,
-      "lat": 33.5620345,
-      "lon": -7.6034215
+      "lat": 33.5620133,
+      "lon": -7.6034228
     },
     {
       "type": "node",
@@ -180426,6 +180974,12 @@
       "id": 12197540385,
       "lat": 33.5583805,
       "lon": -7.6074529
+    },
+    {
+      "type": "node",
+      "id": 14366871738,
+      "lat": 33.5619899,
+      "lon": -7.6027884
     },
     {
       "type": "node",
@@ -181726,8 +182280,8 @@
     {
       "type": "node",
       "id": 1415536415,
-      "lat": 33.5435735,
-      "lon": -7.5841302
+      "lat": 33.5435388,
+      "lon": -7.5841999
     },
     {
       "type": "node",
@@ -181774,8 +182328,8 @@
     {
       "type": "node",
       "id": 5652183657,
-      "lat": 33.5434404,
-      "lon": -7.5840852
+      "lat": 33.5434287,
+      "lon": -7.5841046
     },
     {
       "type": "node",
@@ -182394,6 +182948,12 @@
       "id": 13978028592,
       "lat": 33.5413653,
       "lon": -7.5795356
+    },
+    {
+      "type": "node",
+      "id": 14363073028,
+      "lat": 33.5445874,
+      "lon": -7.5789284
     },
     {
       "type": "node",
@@ -184252,14 +184812,14 @@
     {
       "type": "node",
       "id": 6932787660,
-      "lat": 33.5322578,
-      "lon": -7.5703329
+      "lat": 33.5322869,
+      "lon": -7.570353
     },
     {
       "type": "node",
       "id": 6932787671,
-      "lat": 33.5323054,
-      "lon": -7.5703844
+      "lat": 33.5323222,
+      "lon": -7.5703951
     },
     {
       "type": "node",
@@ -185974,8 +186534,8 @@
     {
       "type": "node",
       "id": 1415736994,
-      "lat": 33.5556969,
-      "lon": -7.598105
+      "lat": 33.5556413,
+      "lon": -7.5982099
     },
     {
       "type": "node",
@@ -186010,8 +186570,8 @@
     {
       "type": "node",
       "id": 1849519676,
-      "lat": 33.5562305,
-      "lon": -7.5969379
+      "lat": 33.5562238,
+      "lon": -7.596962
     },
     {
       "type": "node",
@@ -186184,14 +186744,14 @@
     {
       "type": "node",
       "id": 5648126118,
-      "lat": 33.5548212,
-      "lon": -7.5997433
+      "lat": 33.5548268,
+      "lon": -7.5997265
     },
     {
       "type": "node",
       "id": 5648126119,
-      "lat": 33.5549055,
-      "lon": -7.5997945
+      "lat": 33.5549089,
+      "lon": -7.5997851
     },
     {
       "type": "node",
@@ -186264,6 +186824,42 @@
       "id": 12195597582,
       "lat": 33.5550618,
       "lon": -7.5994498
+    },
+    {
+      "type": "node",
+      "id": 14333395442,
+      "lat": 33.5548892,
+      "lon": -7.5995742
+    },
+    {
+      "type": "node",
+      "id": 14333478009,
+      "lat": 33.5556739,
+      "lon": -7.5978725
+    },
+    {
+      "type": "node",
+      "id": 14333478010,
+      "lat": 33.5557689,
+      "lon": -7.5979392
+    },
+    {
+      "type": "node",
+      "id": 14333478016,
+      "lat": 33.555745,
+      "lon": -7.5979895
+    },
+    {
+      "type": "node",
+      "id": 14333478018,
+      "lat": 33.5560877,
+      "lon": -7.5969942
+    },
+    {
+      "type": "node",
+      "id": 14333478019,
+      "lat": 33.5561785,
+      "lon": -7.5970604
     },
     {
       "type": "node",
@@ -187564,8 +188160,8 @@
     {
       "type": "node",
       "id": 459750904,
-      "lat": 33.5446567,
-      "lon": -7.5788209
+      "lat": 33.5446399,
+      "lon": -7.5788397
     },
     {
       "type": "node",
@@ -187588,8 +188184,8 @@
     {
       "type": "node",
       "id": 4760055431,
-      "lat": 33.5448658,
-      "lon": -7.578471
+      "lat": 33.5448736,
+      "lon": -7.5784509
     },
     {
       "type": "node",
@@ -187620,6 +188216,24 @@
       "id": 12181133906,
       "lat": 33.5446222,
       "lon": -7.5823757
+    },
+    {
+      "type": "node",
+      "id": 14363073022,
+      "lat": 33.5453625,
+      "lon": -7.5776401
+    },
+    {
+      "type": "node",
+      "id": 14363073023,
+      "lat": 33.5454586,
+      "lon": -7.5777355
+    },
+    {
+      "type": "node",
+      "id": 14363073027,
+      "lat": 33.5446944,
+      "lon": -7.5790296
     },
     {
       "type": "node",
@@ -188554,8 +189168,8 @@
     {
       "type": "node",
       "id": 5638533104,
-      "lat": 33.561982,
-      "lon": -7.6012717
+      "lat": 33.5619652,
+      "lon": -7.601273
     },
     {
       "type": "node",
@@ -188980,8 +189594,8 @@
     {
       "type": "node",
       "id": 12177189614,
-      "lat": 33.5619928,
-      "lon": -7.6020183
+      "lat": 33.561966,
+      "lon": -7.6020022
     },
     {
       "type": "node",
@@ -191446,8 +192060,8 @@
     {
       "type": "node",
       "id": 460013874,
-      "lat": 33.5467696,
-      "lon": -7.5751709
+      "lat": 33.5467688,
+      "lon": -7.5751766
     },
     {
       "type": "node",
@@ -191500,14 +192114,14 @@
     {
       "type": "node",
       "id": 2428391471,
-      "lat": 33.5501785,
-      "lon": -7.5695197
+      "lat": 33.550193,
+      "lon": -7.5695009
     },
     {
       "type": "node",
       "id": 5524008417,
-      "lat": 33.5497984,
-      "lon": -7.5701923
+      "lat": 33.549804,
+      "lon": -7.5701708
     },
     {
       "type": "node",
@@ -191601,6 +192215,30 @@
     },
     {
       "type": "node",
+      "id": 14361954668,
+      "lat": 33.5465795,
+      "lon": -7.5755208
+    },
+    {
+      "type": "node",
+      "id": 14361954669,
+      "lat": 33.5467081,
+      "lon": -7.5756346
+    },
+    {
+      "type": "node",
+      "id": 14364545119,
+      "lat": 33.549971,
+      "lon": -7.5701992
+    },
+    {
+      "type": "node",
+      "id": 14364545120,
+      "lat": 33.5498514,
+      "lon": -7.5700986
+    },
+    {
+      "type": "node",
       "id": 279300363,
       "lat": 33.5464183,
       "lon": -7.5638692
@@ -191620,8 +192258,8 @@
     {
       "type": "node",
       "id": 460013843,
-      "lat": 33.5505333,
-      "lon": -7.5689429
+      "lat": 33.5505255,
+      "lon": -7.5689536
     },
     {
       "type": "node",
@@ -191878,8 +192516,8 @@
     {
       "type": "node",
       "id": 12181133932,
-      "lat": 33.5504,
-      "lon": -7.5691737
+      "lat": 33.5503486,
+      "lon": -7.5692568
     },
     {
       "type": "node",
@@ -191904,6 +192542,12 @@
       "id": 12195642071,
       "lat": 33.5507743,
       "lon": -7.5680296
+    },
+    {
+      "type": "node",
+      "id": 14364545118,
+      "lat": 33.550463,
+      "lon": -7.5693635
     },
     {
       "type": "node",
@@ -192520,14 +193164,14 @@
     {
       "type": "node",
       "id": 3948968607,
-      "lat": 33.54941,
-      "lon": -7.5539857
+      "lat": 33.5494379,
+      "lon": -7.5539562
     },
     {
       "type": "node",
       "id": 3948968649,
-      "lat": 33.549296,
-      "lon": -7.5540984
+      "lat": 33.5493385,
+      "lon": -7.5540515
     },
     {
       "type": "node",
@@ -194932,8 +195576,8 @@
     {
       "type": "node",
       "id": 1755434147,
-      "lat": 33.5618377,
-      "lon": -7.5526048
+      "lat": 33.561774,
+      "lon": -7.5525632
     },
     {
       "type": "node",
@@ -194980,8 +195624,8 @@
     {
       "type": "node",
       "id": 4232154572,
-      "lat": 33.559301,
-      "lon": -7.5506977
+      "lat": 33.5592814,
+      "lon": -7.5506803
     },
     {
       "type": "node",
@@ -195016,8 +195660,8 @@
     {
       "type": "node",
       "id": 6727510895,
-      "lat": 33.5586377,
-      "lon": -7.5501029
+      "lat": 33.5586257,
+      "lon": -7.5500982
     },
     {
       "type": "node",
@@ -195396,6 +196040,48 @@
       "id": 12478989455,
       "lat": 33.5608508,
       "lon": -7.5517912
+    },
+    {
+      "type": "node",
+      "id": 14361791479,
+      "lat": 33.562466,
+      "lon": -7.5531508
+    },
+    {
+      "type": "node",
+      "id": 14361791482,
+      "lat": 33.5623741,
+      "lon": -7.5533073
+    },
+    {
+      "type": "node",
+      "id": 14362979942,
+      "lat": 33.5596197,
+      "lon": -7.5506612
+    },
+    {
+      "type": "node",
+      "id": 14362979943,
+      "lat": 33.559505,
+      "lon": -7.550869
+    },
+    {
+      "type": "node",
+      "id": 14362979944,
+      "lat": 33.5588719,
+      "lon": -7.5500239
+    },
+    {
+      "type": "node",
+      "id": 14362979945,
+      "lat": 33.5587616,
+      "lon": -7.550214
+    },
+    {
+      "type": "node",
+      "id": 14364966241,
+      "lat": 33.5586601,
+      "lon": -7.5498461
     },
     {
       "type": "node",
@@ -196882,8 +197568,8 @@
     {
       "type": "node",
       "id": 5723405344,
-      "lat": 33.580871,
-      "lon": -7.7027733
+      "lat": 33.5808799,
+      "lon": -7.7027626
     },
     {
       "type": "node",
@@ -200778,6 +201464,18 @@
       "id": 13931138465,
       "lat": 33.5825107,
       "lon": -7.6628798
+    },
+    {
+      "type": "node",
+      "id": 14349219148,
+      "lat": 33.5825354,
+      "lon": -7.663957
+    },
+    {
+      "type": "node",
+      "id": 14349219149,
+      "lat": 33.582626,
+      "lon": -7.6639366
     },
     {
       "type": "node",
@@ -204975,9 +205673,15 @@
     },
     {
       "type": "node",
+      "id": 12421715751,
+      "lat": 33.5935223,
+      "lon": -7.6613771
+    },
+    {
+      "type": "node",
       "id": 12421715753,
-      "lat": 33.5934646,
-      "lon": -7.6614034
+      "lat": 33.5934612,
+      "lon": -7.6614222
     },
     {
       "type": "node",
@@ -205944,12 +206648,6 @@
       "id": 12421715750,
       "lat": 33.5927195,
       "lon": -7.6600408
-    },
-    {
-      "type": "node",
-      "id": 12421715751,
-      "lat": 33.5929794,
-      "lon": -7.6603605
     },
     {
       "type": "node",
@@ -214528,8 +215226,8 @@
     {
       "type": "node",
       "id": 456479863,
-      "lat": 33.5843795,
-      "lon": -7.6432128
+      "lat": 33.5843766,
+      "lon": -7.6432095
     },
     {
       "type": "node",
@@ -216892,8 +217590,8 @@
     {
       "type": "node",
       "id": 2126803123,
-      "lat": 33.5965821,
-      "lon": -7.6383623
+      "lat": 33.5965519,
+      "lon": -7.6383583
     },
     {
       "type": "node",
@@ -228400,8 +229098,8 @@
     {
       "type": "node",
       "id": 2126803115,
-      "lat": 33.5974336,
-      "lon": -7.6385265
+      "lat": 33.5974235,
+      "lon": -7.6385225
     },
     {
       "type": "node",
@@ -228412,8 +229110,8 @@
     {
       "type": "node",
       "id": 2126803211,
-      "lat": 33.5971355,
-      "lon": -7.6383523
+      "lat": 33.5971254,
+      "lon": -7.638351
     },
     {
       "type": "node",
@@ -228466,8 +229164,8 @@
     {
       "type": "node",
       "id": 2126803562,
-      "lat": 33.597331,
-      "lon": -7.6383895
+      "lat": 33.5973779,
+      "lon": -7.6384016
     },
     {
       "type": "node",
@@ -228834,6 +229532,12 @@
       "id": 12500717716,
       "lat": 33.600108,
       "lon": -7.6410355
+    },
+    {
+      "type": "node",
+      "id": 14362365202,
+      "lat": 33.5973658,
+      "lon": -7.6385134
     },
     {
       "type": "node",
@@ -231994,8 +232698,8 @@
     {
       "type": "node",
       "id": 1969289856,
-      "lat": 33.5976181,
-      "lon": -7.6118705
+      "lat": 33.597622,
+      "lon": -7.6118678
     },
     {
       "type": "node",
@@ -232120,8 +232824,8 @@
     {
       "type": "node",
       "id": 6848033245,
-      "lat": 33.5975321,
-      "lon": -7.6117256
+      "lat": 33.5975885,
+      "lon": -7.6118054
     },
     {
       "type": "node",
@@ -232138,8 +232842,8 @@
     {
       "type": "node",
       "id": 6848265972,
-      "lat": 33.5976424,
-      "lon": -7.6117108
+      "lat": 33.5976502,
+      "lon": -7.6117416
     },
     {
       "type": "node",
@@ -232977,6 +233681,24 @@
     },
     {
       "type": "node",
+      "id": 14383515977,
+      "lat": 33.5754288,
+      "lon": -7.5986903
+    },
+    {
+      "type": "node",
+      "id": 14383515980,
+      "lat": 33.5754762,
+      "lon": -7.5987035
+    },
+    {
+      "type": "node",
+      "id": 14383515981,
+      "lat": 33.5753823,
+      "lon": -7.598969
+    },
+    {
+      "type": "node",
       "id": 428592693,
       "lat": 33.5727978,
       "lon": -7.5918357
@@ -233656,8 +234378,8 @@
     {
       "type": "node",
       "id": 456526074,
-      "lat": 33.5826286,
-      "lon": -7.5949645
+      "lat": 33.5826314,
+      "lon": -7.5949699
     },
     {
       "type": "node",
@@ -233778,6 +234500,24 @@
       "id": 10126018256,
       "lat": 33.5824671,
       "lon": -7.5950091
+    },
+    {
+      "type": "node",
+      "id": 14372779738,
+      "lat": 33.5795271,
+      "lon": -7.5905608
+    },
+    {
+      "type": "node",
+      "id": 14372779739,
+      "lat": 33.5794069,
+      "lon": -7.5906839
+    },
+    {
+      "type": "node",
+      "id": 14372798810,
+      "lat": 33.5825277,
+      "lon": -7.5950864
     },
     {
       "type": "node",
@@ -236962,14 +237702,14 @@
     {
       "type": "node",
       "id": 5636127353,
-      "lat": 33.5917582,
-      "lon": -7.6004274
+      "lat": 33.591723,
+      "lon": -7.6005173
     },
     {
       "type": "node",
       "id": 5636127354,
-      "lat": 33.5918461,
-      "lon": -7.6004922
+      "lat": 33.5918109,
+      "lon": -7.6005821
     },
     {
       "type": "node",
@@ -237054,6 +237794,12 @@
       "id": 12046078362,
       "lat": 33.5959887,
       "lon": -7.5993819
+    },
+    {
+      "type": "node",
+      "id": 14333884309,
+      "lat": 33.5917836,
+      "lon": -7.6003907
     },
     {
       "type": "node",
@@ -239470,8 +240216,8 @@
     {
       "type": "node",
       "id": 459487425,
-      "lat": 33.5791473,
-      "lon": -7.5577594
+      "lat": 33.5791607,
+      "lon": -7.5578211
     },
     {
       "type": "node",
@@ -246298,8 +247044,8 @@
     {
       "type": "node",
       "id": 1848422395,
-      "lat": 33.6141028,
-      "lon": -7.5555655
+      "lat": 33.6140894,
+      "lon": -7.5555937
     },
     {
       "type": "node",
@@ -246334,8 +247080,8 @@
     {
       "type": "node",
       "id": 5608149311,
-      "lat": 33.6139659,
-      "lon": -7.5558277
+      "lat": 33.6139715,
+      "lon": -7.555817
     },
     {
       "type": "node",
@@ -246402,6 +247148,12 @@
       "id": 12617950940,
       "lat": 33.6163089,
       "lon": -7.5501417
+    },
+    {
+      "type": "node",
+      "id": 14333636048,
+      "lat": 33.6142163,
+      "lon": -7.555361
     },
     {
       "type": "node",
@@ -252723,6 +253475,12 @@
     },
     {
       "type": "node",
+      "id": 14372229783,
+      "lat": 33.4527129,
+      "lon": -7.4390636
+    },
+    {
+      "type": "node",
       "id": 1539208248,
       "lat": 33.4522036,
       "lon": -7.4363843
@@ -252891,6 +253649,24 @@
     },
     {
       "type": "node",
+      "id": 3909581897,
+      "lat": 33.4562615,
+      "lon": -7.4426328
+    },
+    {
+      "type": "node",
+      "id": 3909582300,
+      "lat": 33.4541561,
+      "lon": -7.4408649
+    },
+    {
+      "type": "node",
+      "id": 3921352853,
+      "lat": 33.4546026,
+      "lon": -7.4413713
+    },
+    {
+      "type": "node",
       "id": 6696860205,
       "lat": 33.4577568,
       "lon": -7.4438247
@@ -252906,12 +253682,6 @@
       "id": 6696860207,
       "lat": 33.4544583,
       "lon": -7.4412015
-    },
-    {
-      "type": "node",
-      "id": 6696860208,
-      "lat": 33.4541561,
-      "lon": -7.4408649
     },
     {
       "type": "node",
@@ -262138,8 +262908,8 @@
     {
       "type": "node",
       "id": 2238747366,
-      "lat": 33.5579994,
-      "lon": -7.5492741
+      "lat": 33.5579944,
+      "lon": -7.5492687
     },
     {
       "type": "node",
@@ -263112,6 +263882,12 @@
       "id": 12620391487,
       "lat": 33.5691984,
       "lon": -7.533456
+    },
+    {
+      "type": "node",
+      "id": 14364941039,
+      "lat": 33.5690658,
+      "lon": -7.53369
     },
     {
       "type": "node",
@@ -275638,8 +276414,8 @@
     {
       "type": "node",
       "id": 1848117198,
-      "lat": 33.5737778,
-      "lon": -7.5355415
+      "lat": 33.5736521,
+      "lon": -7.5350473
     },
     {
       "type": "node",
@@ -275956,14 +276732,14 @@
     {
       "type": "node",
       "id": 14167951874,
-      "lat": 33.5738908,
-      "lon": -7.5359527
+      "lat": 33.573864,
+      "lon": -7.5358716
     },
     {
       "type": "node",
       "id": 14167973202,
-      "lat": 33.5738047,
-      "lon": -7.535633
+      "lat": 33.5736723,
+      "lon": -7.5351281
     },
     {
       "type": "node",
@@ -276106,8 +276882,8 @@
     {
       "type": "node",
       "id": 6851396665,
-      "lat": 33.5732235,
-      "lon": -7.5297533
+      "lat": 33.5732358,
+      "lon": -7.529693
     },
     {
       "type": "node",
@@ -276312,6 +277088,36 @@
       "id": 13418027603,
       "lat": 33.5711168,
       "lon": -7.5252609
+    },
+    {
+      "type": "node",
+      "id": 14354505226,
+      "lat": 33.5730811,
+      "lon": -7.5296394
+    },
+    {
+      "type": "node",
+      "id": 14354505227,
+      "lat": 33.5735848,
+      "lon": -7.5283228
+    },
+    {
+      "type": "node",
+      "id": 14354505228,
+      "lat": 33.5734348,
+      "lon": -7.5282649
+    },
+    {
+      "type": "node",
+      "id": 14354505229,
+      "lat": 33.5738127,
+      "lon": -7.5262209
+    },
+    {
+      "type": "node",
+      "id": 14354505230,
+      "lat": 33.5736511,
+      "lon": -7.5262075
     },
     {
       "type": "node",
@@ -277101,6 +277907,24 @@
     },
     {
       "type": "node",
+      "id": 14373950290,
+      "lat": 33.5952851,
+      "lon": -7.5457936
+    },
+    {
+      "type": "node",
+      "id": 14373950291,
+      "lat": 33.5952209,
+      "lon": -7.5455917
+    },
+    {
+      "type": "node",
+      "id": 14373950292,
+      "lat": 33.5954018,
+      "lon": -7.545587
+    },
+    {
+      "type": "node",
       "id": 1690659033,
       "lat": 33.5903231,
       "lon": -7.5310745
@@ -277294,8 +278118,8 @@
     {
       "type": "node",
       "id": 1700506779,
-      "lat": 33.575465,
-      "lon": -7.5199404
+      "lat": 33.5754583,
+      "lon": -7.5199578
     },
     {
       "type": "node",
@@ -277452,6 +278276,30 @@
       "id": 11346099636,
       "lat": 33.5708617,
       "lon": -7.5231713
+    },
+    {
+      "type": "node",
+      "id": 14355124702,
+      "lat": 33.5751342,
+      "lon": -7.52048
+    },
+    {
+      "type": "node",
+      "id": 14355124703,
+      "lat": 33.5752808,
+      "lon": -7.5205458
+    },
+    {
+      "type": "node",
+      "id": 14355124704,
+      "lat": 33.5752614,
+      "lon": -7.5200483
+    },
+    {
+      "type": "node",
+      "id": 14355124705,
+      "lat": 33.5754104,
+      "lon": -7.5201153
     },
     {
       "type": "node",
@@ -289600,8 +290448,8 @@
     {
       "type": "node",
       "id": 6665716159,
-      "lat": 33.6231482,
-      "lon": -7.4860601
+      "lat": 33.6231806,
+      "lon": -7.4860179
     },
     {
       "type": "node",
@@ -289680,6 +290528,12 @@
       "id": 13145019305,
       "lat": 33.6225006,
       "lon": -7.487047
+    },
+    {
+      "type": "node",
+      "id": 14354511477,
+      "lat": 33.6232571,
+      "lon": -7.4860896
     },
     {
       "type": "node",
@@ -291444,6 +292298,12 @@
       "id": 12206244901,
       "lat": 33.6280154,
       "lon": -7.5170513
+    },
+    {
+      "type": "node",
+      "id": 14344970269,
+      "lat": 33.6277773,
+      "lon": -7.5176862
     },
     {
       "type": "node",
@@ -316780,8 +317640,8 @@
     {
       "type": "node",
       "id": 1696704859,
-      "lat": 33.6799244,
-      "lon": -7.384961
+      "lat": 33.6799166,
+      "lon": -7.3849677
     },
     {
       "type": "node",
@@ -316992,6 +317852,18 @@
       "id": 12206156314,
       "lat": 33.6795783,
       "lon": -7.3853979
+    },
+    {
+      "type": "node",
+      "id": 14374400873,
+      "lat": 33.6799254,
+      "lon": -7.3850949
+    },
+    {
+      "type": "node",
+      "id": 14374400874,
+      "lat": 33.6798675,
+      "lon": -7.3850226
     },
     {
       "type": "node",
@@ -323104,14 +323976,14 @@
     {
       "type": "node",
       "id": 1849020107,
-      "lat": 33.7155199,
-      "lon": -7.3429127
+      "lat": 33.7154853,
+      "lon": -7.3429784
     },
     {
       "type": "node",
       "id": 6037816863,
-      "lat": 33.7153924,
-      "lon": -7.3434202
+      "lat": 33.7153812,
+      "lon": -7.3434497
     },
     {
       "type": "node",
