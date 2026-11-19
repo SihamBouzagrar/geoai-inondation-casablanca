@@ -1,0 +1,154 @@
+commune_id,calcul_id,cluster_dominant_id,pct_zones_elevees,score_moyen,score_max,bati_expose_m2,indice_priorite,rang_priorite,recommandation
+33,1,9,80.35415970598062,0.4295429560374206,0.6259973,,0.9319714270227615,1,"Très prioritaire : Gestion des eaux pluviales : désimperméabilisation, noues, revêtements perméables"
+10,1,9,58.43553198541598,0.4274455672257209,0.6713059,,0.772621211775226,2,"Très prioritaire : Gestion des eaux pluviales : désimperméabilisation, noues, revêtements perméables"
+76,1,9,69.16714204221334,0.38367039806902453,0.61227214,,0.7388485691731509,3,"Très prioritaire : Gestion des eaux pluviales : désimperméabilisation, noues, revêtements perméables"
+83,1,9,58.997722095671975,0.4044527784965831,0.56698567,,0.7192014162879329,4,"Très prioritaire : Gestion des eaux pluviales : désimperméabilisation, noues, revêtements perméables"
+23,1,9,63.89428862353051,0.3766987301976303,0.641754,,0.68437744590735,5,"Très prioritaire : Gestion des eaux pluviales : désimperméabilisation, noues, revêtements perméables"
+40,1,9,55.92689295039165,0.39430768288772844,0.610141,,0.6722949206365567,6,"Très prioritaire : Gestion des eaux pluviales : désimperméabilisation, noues, revêtements perméables"
+2,1,9,62.5,0.3729542262053571,0.51594734,,0.6652302984367593,7,"Très prioritaire : Gestion des eaux pluviales : désimperméabilisation, noues, revêtements perméables"
+30,1,9,53.70639534883721,0.3960238269840116,0.60308874,,0.6609641159680759,8,"Très prioritaire : Gestion des eaux pluviales : désimperméabilisation, noues, revêtements perméables"
+57,1,6,54.68940316686967,0.3873118463580999,0.59374523,,0.6461373909610337,9,Très prioritaire : Protection des berges et zones tampons le long des oueds
+31,1,6,47.21977052074139,0.4064170560105913,0.566682,,0.6412883262490565,10,Très prioritaire : Protection des berges et zones tampons le long des oueds
+113,1,6,33.705186451351715,0.43494676033061935,0.68565774,,0.6174517820017346,11,Très prioritaire : Protection des berges et zones tampons le long des oueds
+82,1,9,63.63636363636363,0.34718268977272726,0.39547822,,0.6089140291082829,12,"Très prioritaire : Gestion des eaux pluviales : désimperméabilisation, noues, revêtements perméables"
+12,1,9,51.546391752577314,0.3704351038659794,0.54717946,,0.581926225154648,13,"Très prioritaire : Gestion des eaux pluviales : désimperméabilisation, noues, revêtements perméables"
+138,1,6,32.23972947694079,0.4218297370098568,0.622074,,0.5744174596334175,14,Très prioritaire : Protection des berges et zones tampons le long des oueds
+65,1,6,22.814512134720157,0.439135710747895,0.6655399,,0.5513285276117226,15,Très prioritaire : Protection des berges et zones tampons le long des oueds
+92,1,6,30.738114716843924,0.41584068501408966,0.62908113,,0.5489149628079701,16,Prioritaire : Protection des berges et zones tampons le long des oueds
+55,1,6,24.801640028852358,0.4299340376253749,0.62800497,,0.5423401794229294,17,Prioritaire : Protection des berges et zones tampons le long des oueds
+58,1,6,23.82014121144556,0.42707918442214793,0.7003412,,0.5283153859376315,18,Prioritaire : Protection des berges et zones tampons le long des oueds
+114,1,6,28.053691275167786,0.41421628566442953,0.5810046,,0.5259866636790315,19,Prioritaire : Protection des berges et zones tampons le long des oueds
+124,1,6,11.58861469433539,0.4568061979893438,0.64789206,,0.5164880040599801,20,Prioritaire : Protection des berges et zones tampons le long des oueds
+107,1,6,30.253511173924565,0.4035016002239202,0.62898403,,0.5147184770783083,21,Prioritaire : Protection des berges et zones tampons le long des oueds
+28,1,6,41.633199464524765,0.37023743523650154,0.5993836,,0.5117302456907142,22,Prioritaire : Protection des berges et zones tampons le long des oueds
+147,1,6,38.557435440783614,0.3731383634817453,0.5470594,,0.4973421273165814,23,Prioritaire : Protection des berges et zones tampons le long des oueds
+135,1,6,24.062868949232584,0.41259046557925033,0.69836515,,0.4938691214215916,24,Prioritaire : Protection des berges et zones tampons le long des oueds
+87,1,6,24.259287110843736,0.40779529029778916,0.5697675,,0.4832850432013994,25,Prioritaire : Protection des berges et zones tampons le long des oueds
+150,1,6,24.740776464914397,0.40050858521501487,0.60250914,,0.4684884025954905,26,Prioritaire : Protection des berges et zones tampons le long des oueds
+45,1,6,17.640281138379997,0.42025108009332873,0.5821939,,0.46782504274015624,27,Prioritaire : Protection des berges et zones tampons le long des oueds
+98,1,6,8.63684972007297,0.44359081375542553,0.63355386,,0.4627575515889579,28,Prioritaire : Protection des berges et zones tampons le long des oueds
+32,1,6,33.14732142857143,0.37196812839285714,0.5348626,,0.4563819004509816,29,Prioritaire : Protection des berges et zones tampons le long des oueds
+5,1,10,36.0499507065396,0.36129189377916526,0.57355654,,0.4501513301930392,30,Prioritaire : Renforcement de l'accès aux secours et des équipements
+133,1,6,11.737729300941993,0.42941339409147244,0.6237413,,0.4491846130968691,31,Prioritaire : Protection des berges et zones tampons le long des oueds
+119,1,6,9.950663609200195,0.4342804360440553,0.6276253,,0.44876367761492875,32,Prioritaire : Protection des berges et zones tampons le long des oueds
+60,1,6,20.60145460488682,0.3965002543801585,0.5870174,,0.429381756599619,33,Prioritaire : Protection des berges et zones tampons le long des oueds
+63,1,6,19.73652978874911,0.3980137615001187,0.6050675,,0.4270767773270455,34,Prioritaire : Protection des berges et zones tampons le long des oueds
+106,1,6,13.901972671734367,0.41403765523947206,0.58185726,,0.4260357886921277,35,Prioritaire : Protection des berges et zones tampons le long des oueds
+93,1,6,7.760207949745477,0.4306776612016679,0.58093274,,0.42437208087627937,36,Prioritaire : Protection des berges et zones tampons le long des oueds
+151,1,6,15.102742746273922,0.40955814379574923,0.5826352,,0.42330128186991095,37,Prioritaire : Protection des berges et zones tampons le long des oueds
+39,1,6,11.708022163334137,0.4171832664514575,0.6225962,,0.4184585210847086,38,Prioritaire : Protection des berges et zones tampons le long des oueds
+74,1,6,8.08517451168748,0.4267371043379763,0.5684416,,0.4168243521743179,39,Prioritaire : Protection des berges et zones tampons le long des oueds
+149,1,10,25.229499106647772,0.3779417087653256,0.5669028,,0.4156147915445968,40,Prioritaire : Renforcement de l'accès aux secours et des équipements
+79,1,6,9.97997997997998,0.4207654287757758,0.5625322,,0.415246503892804,41,Prioritaire : Protection des berges et zones tampons le long des oueds
+120,1,6,19.248506445865214,0.39229328079525205,0.6097656,,0.4093713101130522,42,Prioritaire : Protection des berges et zones tampons le long des oueds
+78,1,10,25.319414994834993,0.3732873658924591,0.58753645,,0.4046332745251799,43,Prioritaire : Renforcement de l'accès aux secours et des équipements
+43,1,6,18.35499959120268,0.39255732532826426,0.5634551,,0.40374764153616216,44,Prioritaire : Protection des berges et zones tampons le long des oueds
+123,1,6,29.239766081871345,0.3593906160836988,0.58996415,,0.3975226369297593,45,Prioritaire : Protection des berges et zones tampons le long des oueds
+44,1,6,19.25346040390288,0.38652497293623783,0.5787069,,0.3950127794174319,46,Suivi : Protection des berges et zones tampons le long des oueds
+152,1,10,21.715817694369974,0.37925553506702414,0.5385224,,0.39418732512822824,47,Suivi : Renforcement de l'accès aux secours et des équipements
+122,1,6,17.387809778968517,0.38899816823040856,0.57282716,,0.38806604565018454,48,Suivi : Protection des berges et zones tampons le long des oueds
+34,1,6,22.955653850516047,0.3732305926142679,0.60395384,,0.3878712691715501,49,Suivi : Protection des berges et zones tampons le long des oueds
+115,1,6,16.659101225601454,0.38857716639673173,0.56720096,,0.3818917641777707,50,Suivi : Protection des berges et zones tampons le long des oueds
+97,1,6,9.917417986211078,0.4069915033494962,0.5778918,,0.3804372394967895,51,Suivi : Protection des berges et zones tampons le long des oueds
+143,1,6,20.407237252566503,0.37734442630366966,0.58427733,,0.380217595943405,52,Suivi : Protection des berges et zones tampons le long des oueds
+37,1,6,16.81207262438104,0.38732937515326576,0.54061127,,0.3798538041381635,53,Suivi : Protection des berges et zones tampons le long des oueds
+14,1,6,10.979562140353199,0.40274525747205503,0.57775295,,0.37731006622355934,54,Suivi : Protection des berges et zones tampons le long des oueds
+128,1,6,18.458810253103337,0.3813255644551024,0.60969573,,0.37645152833982387,55,Suivi : Protection des berges et zones tampons le long des oueds
+105,1,6,20.64745567700434,0.3737674454317243,0.5547585,,0.3729811892257725,56,Suivi : Protection des berges et zones tampons le long des oueds
+85,1,10,22.14123006833713,0.3667045752004556,0.6262171,,0.3658607641176983,57,Suivi : Renforcement de l'accès aux secours et des équipements
+144,1,6,15.822611552148919,0.38303221265425674,0.5695599,,0.362174104951968,58,Suivi : Protection des berges et zones tampons le long des oueds
+112,1,6,15.487140979913647,0.3801294447362493,0.5381487,,0.3525721784272889,59,Suivi : Protection des berges et zones tampons le long des oueds
+130,1,6,21.49747358750574,0.36083821877736943,0.6061113,,0.34669629241806466,60,Suivi : Protection des berges et zones tampons le long des oueds
+131,1,10,15.725047080979285,0.3768956440960452,0.5245701,,0.34617583311947925,61,Suivi : Renforcement de l'accès aux secours et des équipements
+24,1,6,19.676836398426705,0.36570999805145105,0.56666833,,0.3460511260629087,62,Suivi : Protection des berges et zones tampons le long des oueds
+137,1,6,9.189092427949163,0.39521440928098334,0.57169837,,0.34592937495567055,63,Suivi : Protection des berges et zones tampons le long des oueds
+95,1,6,12.656177695511337,0.38418440879608207,0.52549106,,0.3427849369411597,64,Suivi : Protection des berges et zones tampons le long des oueds
+142,1,6,17.195523370638575,0.3693821963541804,0.6018649,,0.3377672887788632,65,Suivi : Protection des berges et zones tampons le long des oueds
+8,1,6,16.124362766693938,0.3708196135257096,0.56322294,,0.3338223379984101,66,Suivi : Protection des berges et zones tampons le long des oueds
+84,1,6,9.238070129185342,0.3886267322251516,0.5359805,,0.32983585888855904,67,Suivi : Protection des berges et zones tampons le long des oueds
+71,1,6,8.757944234230925,0.38972611562874254,0.57428193,,0.32920317913040575,68,Suivi : Protection des berges et zones tampons le long des oueds
+108,1,6,8.904649330181245,0.38918161106435517,0.54954314,,0.32887603403436305,69,Suivi : Protection des berges et zones tampons le long des oueds
+21,1,6,23.683009221217933,0.3472233438856934,0.5587977,,0.32809097431755674,70,Suivi : Protection des berges et zones tampons le long des oueds
+13,1,10,14.79643765903308,0.3720076209395674,0.5826702,,0.32744965649415353,71,Suivi : Renforcement de l'accès aux secours et des équipements
+75,1,10,18.07612559241706,0.3615133527858412,0.58565426,,0.32432435485142386,72,Suivi : Renforcement de l'accès aux secours et des équipements
+16,1,6,9.123715384011923,0.3850949605365968,0.5909849,,0.3202191457815303,73,Suivi : Protection des berges et zones tampons le long des oueds
+50,1,10,11.334379905808477,0.3770587411941392,0.5406889,,0.3157106505441288,74,Suivi : Renforcement de l'accès aux secours et des équipements
+102,1,6,15.892067107626264,0.36369476237504933,0.59650534,,0.31441071816238914,75,Suivi : Protection des berges et zones tampons le long des oueds
+145,1,6,15.741543798785775,0.363464963063024,0.56465816,,0.31277893535975254,76,Suivi : Protection des berges et zones tampons le long des oueds
+56,1,6,9.67497473896935,0.37844048432974065,0.5495636,,0.30749064818620353,77,Suivi : Protection des berges et zones tampons le long des oueds
+19,1,10,7.505060466081901,0.3835945617023927,0.55689174,,0.3050940097144975,78,Suivi : Renforcement de l'accès aux secours et des équipements
+41,1,6,14.668676673002556,0.36282576698433505,0.5709215,,0.3036403186789308,79,Suivi : Protection des berges et zones tampons le long des oueds
+104,1,6,12.702294843107664,0.36442872200551596,0.5840377,,0.2938138463544981,80,Suivi : Protection des berges et zones tampons le long des oueds
+62,1,6,7.348014472685041,0.3787098905154777,0.5372445,,0.29180130021521805,81,Suivi : Protection des berges et zones tampons le long des oueds
+109,1,10,7.120060349329774,0.3792829104160622,0.5484295,,0.2916283109165313,82,Suivi : Renforcement de l'accès aux secours et des équipements
+121,1,10,8.81582775676462,0.3744513445325381,0.55393964,,0.29149582130458607,83,Suivi : Renforcement de l'accès aux secours et des équipements
+136,1,6,13.412705794809785,0.361049332006325,0.5986771,,0.2903765483527965,84,Suivi : Protection des berges et zones tampons le long des oueds
+64,1,10,9.726529461516776,0.36970414816323655,0.52305555,,0.28605381279666076,85,Suivi : Renforcement de l'accès aux secours et des équipements
+48,1,10,3.2836141216868766,0.38681002112780344,0.57903284,,0.2834350751529069,86,Suivi : Renforcement de l'accès aux secours et des équipements
+27,1,6,13.583191889536216,0.3575130170140832,0.57265353,,0.28275130336378596,87,Suivi : Protection des berges et zones tampons le long des oueds
+47,1,10,2.273476112026359,0.3884633967887973,0.55645514,,0.2804580634379827,88,Suivi : Renforcement de l'accès aux secours et des équipements
+89,1,6,7.833251352680767,0.3720404025239793,0.5488102,,0.2785711198667933,89,Suivi : Protection des berges et zones tampons le long des oueds
+90,1,10,0.8622480781217535,0.390977807828797,0.52747154,,0.27680936019136554,90,Suivi : Renforcement de l'accès aux secours et des équipements
+73,1,10,4.644694757335558,0.37987843282714506,0.53475934,,0.2757092199451819,91,Suivi : Renforcement de l'accès aux secours et des équipements
+101,1,6,11.673282272041147,0.35986130563370045,0.577089,,0.27518169757948036,92,Suivi : Protection des berges et zones tampons le long des oueds
+9,1,6,14.20108327691266,0.3524048021157752,0.5260669,,0.27434962311530164,93,Suivi : Protection des berges et zones tampons le long des oueds
+61,1,6,12.295269292298316,0.3577572212546659,0.59467345,,0.2743048682101432,94,Suivi : Protection des berges et zones tampons le long des oueds
+54,1,10,6.607674495534238,0.3727136723238505,0.54442453,,0.2716336823992862,95,Suivi : Renforcement de l'accès aux secours et des équipements
+52,1,10,2.772341813437704,0.38197040582257014,0.5536296,,0.26776411558231844,96,Suivi : Renforcement de l'accès aux secours et des équipements
+91,1,6,15.578947368421053,0.34577095819087716,0.5443718,,0.26748472393029327,97,Suivi : Protection des berges et zones tampons le long des oueds
+72,1,10,5.436873544598562,0.37431954056494887,0.54604435,,0.26740845659657436,98,Suivi : Renforcement de l'accès aux secours et des équipements
+38,1,6,6.745362563237774,0.3687847323385577,0.5538736,,0.2627981271918775,99,Suivi : Protection des berges et zones tampons le long des oueds
+53,1,6,9.564556962025318,0.36013902430329114,0.54602474,,0.2610475693723727,100,Suivi : Protection des berges et zones tampons le long des oueds
+100,1,10,7.7511643379906845,0.36492288309824794,0.5555743,,0.26023395833978596,101,Suivi : Renforcement de l'accès aux secours et des équipements
+68,1,10,1.7452787971001522,0.378570103696411,0.5534273,,0.25205791520754117,102,Suivi : Renforcement de l'accès aux secours et des équipements
+7,1,6,10.87248322147651,0.35189009281879197,0.5100315,,0.24966087010872953,103,Suivi : Protection des berges et zones tampons le long des oueds
+148,1,6,8.19989324793168,0.35931540739858553,0.59990466,,0.2493970640105695,104,Suivi : Protection des berges et zones tampons le long des oueds
+4,1,6,7.300166076973066,0.3614457675947722,0.51854706,,0.24838658045156126,105,Suivi : Protection des berges et zones tampons le long des oueds
+127,1,6,7.7572297381159245,0.3598307159811344,0.5123941,,0.2475703819450898,106,Suivi : Protection des berges et zones tampons le long des oueds
+99,1,6,8.013060336031561,0.35779526595945854,0.54674304,,0.24429025236170218,107,Suivi : Protection des berges et zones tampons le long des oueds
+42,1,10,2.4913181337762342,0.37335441451155066,0.5217281,,0.24428910807244167,108,Suivi : Renforcement de l'accès aux secours et des équipements
+86,1,6,6.277593818984547,0.36250280794150114,0.5173854,,0.2438341346543813,109,Suivi : Protection des berges et zones tampons le long des oueds
+139,1,6,6.786050895381715,0.36092086695570214,0.57022744,,0.2434619185367634,110,Suivi : Protection des berges et zones tampons le long des oueds
+29,1,6,9.690796894698428,0.35214747436633265,0.5261465,,0.24199429596927163,111,Suivi : Protection des berges et zones tampons le long des oueds
+126,1,10,6.805555555555555,0.35985578400462964,0.552172,,0.2409414148832939,112,Suivi : Renforcement de l'accès aux secours et des équipements
+49,1,10,3.004715429323391,0.3693805632152648,0.51750994,,0.23798321673825737,113,Suivi : Renforcement de l'accès aux secours et des équipements
+146,1,8,4.3437093147118,0.3653546441774175,0.5232379,,0.2373524305707393,114,Suivi : Surveillance et entretien courant
+17,1,6,14.512586585571889,0.3350844949113026,0.56659245,,0.23332142350289947,115,Suivi : Protection des berges et zones tampons le long des oueds
+116,1,6,7.001936577099976,0.3559165492580489,0.5617874,,0.23249286015030957,116,Suivi : Protection des berges et zones tampons le long des oueds
+66,1,6,7.2727272727272725,0.35436332654545455,0.4596322,,0.23052119681596345,117,Suivi : Protection des berges et zones tampons le long des oueds
+118,1,6,6.604430820677163,0.355996661642051,0.5305311,,0.22989777352274418,118,Suivi : Protection des berges et zones tampons le long des oueds
+80,1,6,6.679246510719978,0.3538400207375476,0.58356875,,0.2250424702506113,119,Suivi : Protection des berges et zones tampons le long des oueds
+110,1,10,9.143195466463673,0.34534055705827627,0.5609571,,0.22115898697520725,120,Suivi : Renforcement de l'accès aux secours et des équipements
+20,1,10,5.43616480162767,0.35291509587042214,0.56667536,,0.21399405731298507,121,Suivi : Renforcement de l'accès aux secours et des équipements
+117,1,6,5.472992283509575,0.35233103212346384,0.52136296,,0.21279561843541964,122,Suivi : Protection des berges et zones tampons le long des oueds
+25,1,6,11.7242773398019,0.3334660257004245,0.54233027,,0.2096774680538429,123,Suivi : Protection des berges et zones tampons le long des oueds
+51,1,10,2.1870328331764575,0.35928190848513375,0.5514774,,0.2070351788116451,124,Suivi : Renforcement de l'accès aux secours et des équipements
+46,1,10,2.4411508282476024,0.3568233683670445,0.53041136,,0.2026872923092871,125,Suivi : Renforcement de l'accès aux secours et des équipements
+81,1,10,3.8788769433057464,0.3527095502084461,0.5747387,,0.20253139306509554,126,Suivi : Renforcement de l'accès aux secours et des équipements
+35,1,6,9.511400651465799,0.33602710709576544,0.5741934,,0.2005085772224022,127,Suivi : Protection des berges et zones tampons le long des oueds
+15,1,10,1.1528507568033879,0.3586643429362403,0.51819515,,0.1982225423341274,128,Suivi : Renforcement de l'accès aux secours et des équipements
+129,1,6,5.387205387205387,0.3467255897412395,0.514904,,0.19820545038230863,129,Suivi : Protection des berges et zones tampons le long des oueds
+22,1,6,6.64133188563156,0.341458177859211,0.55763674,,0.19388010156082983,130,Suivi : Protection des berges et zones tampons le long des oueds
+141,1,6,9.680518856593801,0.3287269646576988,0.5819795,,0.18348202808995454,131,Suivi : Protection des berges et zones tampons le long des oueds
+77,1,6,5.877372468778664,0.33906521355746844,0.5585422,,0.182537423202202,132,Suivi : Protection des berges et zones tampons le long des oueds
+125,1,6,7.22272589906316,0.3331624913062859,0.5788572,,0.17726826192909606,133,Suivi : Protection des berges et zones tampons le long des oueds
+26,1,6,4.293165708171727,0.3386089343560252,0.5509408,,0.17025984118132634,134,Suivi : Protection des berges et zones tampons le long des oueds
+94,1,10,0.6351726875744342,0.3481889671671298,0.50501573,,0.16844391707480133,135,Suivi : Renforcement de l'accès aux secours et des équipements
+88,1,6,3.1047475508666165,0.3398218076518463,0.5119884,,0.1649301231224823,136,Suivi : Protection des berges et zones tampons le long des oueds
+134,1,6,2.3825428635047876,0.3401142353584948,0.52253425,,0.1605817565967133,137,Suivi : Protection des berges et zones tampons le long des oueds
+69,1,10,2.5105815504145648,0.33625944967124716,0.55699307,,0.15186338700967328,138,Suivi : Renforcement de l'accès aux secours et des équipements
+96,1,6,3.0874785591766725,0.3346310569405894,0.49576902,,0.15185648474123042,139,Suivi : Protection des berges et zones tampons le long des oueds
+6,1,6,2.520565281586163,0.3338410105821557,0.5010931,,0.1458989783951163,140,Suivi : Protection des berges et zones tampons le long des oueds
+111,1,6,2.8774776153669546,0.33154096452743553,0.51090586,,0.1426693530797377,141,Suivi : Protection des berges et zones tampons le long des oueds
+59,1,6,0.747737111373475,0.3375364012113341,0.49373487,,0.1426545897570798,142,Suivi : Protection des berges et zones tampons le long des oueds
+3,1,10,4.487120302834457,0.3268981872689502,0.49268606,,0.1424023682966409,143,Suivi : Renforcement de l'accès aux secours et des équipements
+140,1,6,5.578446909667195,0.32215074319017434,0.5197684,,0.13822977171797102,144,Suivi : Protection des berges et zones tampons le long des oueds
+36,1,6,2.715975891063323,0.3224417004717613,0.54196525,,0.11882885596093276,145,Suivi : Protection des berges et zones tampons le long des oueds
+18,1,6,1.313883716118353,0.3231740905855576,0.5227158,,0.11079780413132365,146,Suivi : Protection des berges et zones tampons le long des oueds
+153,1,8,2.2298650742658452,0.3199435763211006,0.5048457,,0.1091774177827733,147,Suivi : Surveillance et entretien courant
+67,1,8,2.413462991887943,0.3082947192330831,0.52311766,,0.08140155482005146,148,Suivi : Surveillance et entretien courant
+70,1,8,1.84018401840184,0.3000331508505851,0.5497298,,0.05675598258351087,149,Suivi : Surveillance et entretien courant
+103,1,8,0.3825356649792913,0.29290568028534864,0.4832084,,0.028721989657146032,150,Suivi : Surveillance et entretien courant
+132,1,8,1.140079941860465,0.28746226818041426,0.53604925,,0.020465851992009215,151,Suivi : Surveillance et entretien courant
+1,1,8,1.2151297356559874,0.2816861703688939,0.528639,,0.006580749111512827,152,Suivi : Surveillance et entretien courant
+11,1,8,0.35486414796759624,0.28147298384185243,0.48431423,,0.0,153,Suivi : Surveillance et entretien courant

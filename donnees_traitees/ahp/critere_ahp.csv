@@ -1,0 +1,13 @@
+id,calcul_id,variable,sens,poids,groupe
+1,1,hand_moy,benefit,0.21873079764005862,alea
+2,1,flux_max_log,benefit,0.1287879071724557,alea
+3,1,twi_moy,benefit,0.1287879071724557,alea
+4,1,pct_impermeable,benefit,0.04221616520542693,alea
+5,1,distance_oued,cost,0.1287879071724557,alea
+6,1,depression_moy,benefit,0.07190324188252689,alea
+7,1,ruissel_moy,benefit,0.07190324188252689,alea
+8,1,pente_moy,benefit,0.04221616520542693,alea
+9,1,densite_bati,benefit,0.0705978188916674,vulnerabilite
+10,1,densite_routes,benefit,0.03784074417720016,vulnerabilite
+11,1,distance_secours,benefit,0.03784074417720016,vulnerabilite
+12,1,indice_equip,benefit,0.020387359420598956,vulnerabilite

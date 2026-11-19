@@ -7,7 +7,7 @@ Les sources, licences et dates de téléchargement sont détaillées dans `SOURC
 
 ```text
 donnees_brutes/
-├── README.md                          # Ce fichier
+├── README.md                         
 │
 ├── osm/                               # Shapefiles OpenStreetMap (Geofabrik, Maroc)
 │                                      # NON versionné (voir ci-dessous)

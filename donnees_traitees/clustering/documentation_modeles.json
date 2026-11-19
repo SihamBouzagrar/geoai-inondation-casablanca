@@ -1,0 +1,47 @@
+{
+  "algorithmes": {
+    "baseline": "K-Means (n_init=10, init k-means++)",
+    "modele": "GMM covariance 'full', n_init=3, k=5"
+  },
+  "entrees": "variables normalisées (orientées risque) × √poids AHP",
+  "k": {
+    "teste": [
+      2,
+      10
+    ],
+    "candidats": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "votes": {
+      "coude_icl": 5,
+      "coude_loglik_val": 5,
+      "coude_eta2_ahp": 5
+    },
+    "retenu": 5,
+    "validation": "CV spatiale 3 plis sur le train"
+  },
+  "decoupage": "spatial (blocs de 5000 m)",
+  "test_frac": 0.2,
+  "graine": 42,
+  "metriques_internes": [
+    "silhouette",
+    "davies_bouldin",
+    "calinski_harabasz",
+    "BIC / loglik (GMM)"
+  ],
+  "metriques_supervisees": [
+    "accuracy",
+    "précision/rappel/F1 macro",
+    "matrice de confusion",
+    "RMSE score"
+  ],
+  "references": [
+    "K-Means (baseline du GMM)",
+    "classe majoritaire / score moyen (référence naïve)"
+  ]
+}
